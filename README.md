@@ -1,8 +1,8 @@
 # R-kunskapskontroll
 
-# 🚗 Volvo Used Car Price Analysis (Blocket Data)
+# 🚗 Volvo Used Car Price Analysis 
 
-This project analyzes used Volvo car listings from Blocket using R. The goal is to understand what factors influence price and how well statistical models can predict it.
+This project analyzes used Volvo car listings using R. The goal is to understand what factors influence price and how well statistical models can predict it.
 
 ---
 
