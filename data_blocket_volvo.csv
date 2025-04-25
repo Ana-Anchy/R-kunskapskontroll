@@ -1,0 +1,902 @@
+﻿price;seller;fuel;gear;miles;year_model;type;wheels;hpower;color;engine;date_traffic;brand;model;region
+21000;Privat;Bensin;Manuell;35630;2006;Kombi;Tvåhjulsdriven;210;Svart;2521;2005-09-02;Volvo;V70;Värmland
+34000;Privat;Bensin;Manuell;32781;2009;Sedan;Tvåhjulsdriven;141;Blå;2435;2008-10-29;Volvo;S60;Värmland
+19000;Privat;Bensin;Manuell;29250;2007;Kombi;Tvåhjulsdriven;126;Grå;1798;2007-12-08;Volvo;V50;Värmland
+73999;Privat;Bensin;Manuell;16166;2012;Halvkombi;Tvåhjulsdriven;116;Vit;1560;2012-05-16;Volvo;C30;Värmland
+28000;Privat;Bensin;Manuell;30900;1998;Kombi;Tvåhjulsdriven;194;Röd;2435;1998-07-02;Volvo;V70;Värmland
+7500;Privat;Bensin;Manuell;37766;2004;Sedan;Tvåhjulsdriven;141;Grå;2435;2004-02-25;Volvo;S40;Värmland
+37000;Privat;Diesel;Manuell;0;1976;Sedan;Tvåhjulsdriven;101;Röd;2127;1976-06-01;Volvo;242;Värmland
+22000;Privat;Diesel;Manuell;14706;2009;Halvkombi;Tvåhjulsdriven;109;Svart;1560;2008-10-22;Volvo;C30;Värmland
+409900;Företag;El;Automat;4479;2022;SUV;Fyrhjulsdriven;414;Svart;NA;2022-03-18;Volvo;XC40;Värmland
+134900;Företag;Diesel;Automat;20446;2013;Kombi;Fyrhjulsdriven;165;Svart;2400;2012-09-07;Volvo;V70;Värmland
+228900;Företag;Diesel;Automat;14372;2018;Kombi;Tvåhjulsdriven;191;Svart;1969;2018-03-12;Volvo;V90;Värmland
+39899;Företag;Diesel;Automat;33999;2009;Kombi;Tvåhjulsdriven;164;Blå;2400;2008-06-30;Volvo;V70;Värmland
+29000;Företag;Diesel;Manuell;29000;2014;Kombi;Tvåhjulsdriven;181;Vit;1969;2014-03-07;Volvo;V70;Värmland
+599900;Företag;Miljöbränsle/Hybrid;Automat;1540;2025;Kombi;Fyrhjulsdriven;355;Grå;1969;2024-06-04;Volvo;V90;Värmland
+369900;Företag;Miljöbränsle/Hybrid;Automat;9072;2022;Kombi;Fyrhjulsdriven;355;Silver;1969;2022-03-14;Volvo;V90;Värmland
+489900;Företag;Miljöbränsle/Hybrid;Automat;7986;2022;Kombi;Fyrhjulsdriven;463;Grå;1969;2022-04-21;Volvo;V90;Värmland
+364900;Företag;Bensin;Automat;3519;2024;SUV;Tvåhjulsdriven;165;Blå;1969;2023-10-16;Volvo;XC40;Värmland
+559900;Företag;Miljöbränsle/Hybrid;Automat;1260;2024;SUV;Fyrhjulsdriven;355;Grå;1969;2023-12-20;Volvo;XC60;Värmland
+105000;Privat;Diesel;Manuell;14000;2013;Sedan;Tvåhjulsdriven;164;Vit;1984;2013-05-22;Volvo;S60;Värmland
+499900;Företag;Miljöbränsle/Hybrid;Automat;6745;2024;SUV;Fyrhjulsdriven;355;Silver;1969;2023-09-11;Volvo;XC60;Värmland
+687400;Företag;Miljöbränsle/Hybrid;Automat;0;2025;SUV;Fyrhjulsdriven;355;Röd;1969;NA;Volvo;XC60;Värmland
+309900;Företag;Diesel;Automat;7212;2017;Sedan;Fyrhjulsdriven;238;Ljusblå;1969;2016-10-19;Volvo;S90;Värmland
+534900;Företag;El;Automat;43;2025;SUV;Tvåhjulsdriven;256;Svart;NA;2024-06-04;Volvo;EC40;Värmland
+339900;Företag;Bensin;Automat;11903;2021;SUV;Fyrhjulsdriven;200;Vit;1969;2021-04-13;Volvo;XC40;Värmland
+509900;Företag;El;Automat;496;2025;SUV;Tvåhjulsdriven;256;Grön;NA;2024-06-07;Volvo;EX40;Värmland
+509900;Företag;El;Automat;500;2025;SUV;Tvåhjulsdriven;256;Ljusbrun;NA;2024-06-04;Volvo;EX40;Värmland
+389900;Företag;El;Automat;7480;2022;SUV;Fyrhjulsdriven;414;Svart;NA;2022-01-28;Volvo;XC40;Värmland
+49000;Privat;Bensin;Automat;40118;2008;Kombi;Tvåhjulsdriven;200;Vit;2521;2008-07-02;Volvo;V70;Värmland
+110000;Privat;Bensin;Manuell;17661;2007;Cab;Tvåhjulsdriven;170;Vit;2435;2006-09-11;Volvo;C70;Värmland
+53000;Privat;Diesel;Manuell;33714;2010;Kombi;Tvåhjulsdriven;176;Blå;2400;2010-03-05;Volvo;V70;Värmland
+119900;Företag;Diesel;Manuell;14323;2015;Halvkombi;Tvåhjulsdriven;116;Grå;1560;2015-02-25;Volvo;V40;Värmland
+194900;Företag;Diesel;Automat;18864;2015;SUV;Fyrhjulsdriven;184;Silver;2400;2014-10-16;Volvo;XC60;Värmland
+29900;Företag;Bensin;Manuell;25182;2006;Kombi;Tvåhjulsdriven;126;Blå;1798;2005-09-28;Volvo;V50;Värmland
+129900;Företag;Diesel;Manuell;17100;2013;Kombi;Tvåhjulsdriven;164;Röd;1984;2012-07-09;Volvo;V70;Värmland
+328500;Företag;Diesel;Automat;9600;2021;Kombi;Fyrhjulsdriven;198;Silver;1969;2020-12-17;Volvo;V60 Cross Country;Värmland
+24000;Privat;Diesel;Manuell;37634;2007;Kombi;Tvåhjulsdriven;164;Grå;2400;2006-07-19;Volvo;V70;Värmland
+49000;Privat;Diesel;Manuell;31416;2010;Kombi;Tvåhjulsdriven;109;Grå;1560;2010-02-02;Volvo;V50;Värmland
+139000;Företag;Diesel;Automat;16831;2013;Kombi;Fyrhjulsdriven;215;Vit;2400;2012-10-26;Volvo;V60;Värmland
+179900;Företag;Diesel;Manuell;14300;2016;Kombi;Tvåhjulsdriven;191;Vit;1969;2015-10-05;Volvo;V60;Värmland
+189900;Företag;Diesel;Manuell;13200;2018;Kombi;Tvåhjulsdriven;150;Blå;1969;2017-07-27;Volvo;V60;Värmland
+12000;Privat;Bensin;Manuell;38932;2000;Kombi;Tvåhjulsdriven;170;Röd;2435;1999-08-13;Volvo;V70;Värmland
+35000;Privat;Bensin;Manuell;25529;2008;Kombi;Tvåhjulsdriven;170;Silver;2435;2008-03-28;Volvo;V70;Värmland
+109900;Företag;Diesel;Manuell;29500;2015;Kombi;Tvåhjulsdriven;181;Svart;1969;2014-05-30;Volvo;V70;Värmland
+40000;Privat;Bensin;Manuell;20712;1992;Sedan;Tvåhjulsdriven;204;Blå;2922;2023-08-24;Volvo;960;Värmland
+40000;Privat;Bensin;Manuell;42000;1982;Sedan;Tvåhjulsdriven;112;Vit;2316;1981-12-01;Volvo;244;Värmland
+20000;Privat;Bensin;Manuell;32496;2006;Kombi;Tvåhjulsdriven;141;Svart;2435;2005-06-30;Volvo;V70;Värmland
+165000;Företag;Diesel;Manuell;5300;2017;Halvkombi;Tvåhjulsdriven;122;Röd;1969;2016-09-15;Volvo;V40;Värmland
+119900;Företag;Diesel;Manuell;17900;2013;Kombi;Tvåhjulsdriven;136;Svart;1984;2013-03-15;Volvo;V70;Värmland
+269500;Företag;Diesel;Automat;15400;2018;Kombi;Fyrhjulsdriven;191;Vit;1969;2017-06-30;Volvo;V90 Cross Country;Värmland
+85000;Företag;Bensin;Automat;17100;2007;Sedan;Tvåhjulsdriven;200;Vit;2521;2007-05-18;Volvo;S80;Värmland
+65000;Företag;Diesel;Manuell;27700;2012;Kombi;Tvåhjulsdriven;116;Svart;1560;2012-09-14;Volvo;V60;Värmland
+96800;Företag;Diesel;Manuell;12253;2012;Kombi;Tvåhjulsdriven;115;Röd;1560;2011-09-07;Volvo;V50;Värmland
+25900;Privat;Miljöbränsle/Hybrid;Manuell;32800;2009;Kombi;Tvåhjulsdriven;146;Svart;1999;2008-09-01;Volvo;V70;Värmland
+185000;Företag;Diesel;Automat;22665;2017;Kombi;Tvåhjulsdriven;191;Grå;1969;2016-10-07;Volvo;V90;Värmland
+53000;Privat;Miljöbränsle/Hybrid;Manuell;18469;2009;Kombi;Tvåhjulsdriven;146;Röd;1999;2008-10-03;Volvo;V70;Värmland
+159900;Företag;Diesel;Automat;20800;2016;SUV;Tvåhjulsdriven;191;Blå;1969;2015-09-30;Volvo;XC60;Värmland
+394000;Företag;El;Automat;1882;2023;SUV;Tvåhjulsdriven;234;Svart;NA;2022-11-11;Volvo;XC40;Värmland
+559900;Företag;El;Automat;0;2025;SUV;Tvåhjulsdriven;256;Vit;NA;NA;Volvo;EX40;Värmland
+359000;Företag;Miljöbränsle/Hybrid;Automat;7630;2020;Kombi;Fyrhjulsdriven;344;Röd;1969;2020-03-31;Volvo;V60;Värmland
+589000;Företag;Miljöbränsle/Hybrid;Automat;10909;2023;SUV;Fyrhjulsdriven;463;Grå;1969;2022-11-01;Volvo;XC60;Värmland
+429000;Företag;Miljöbränsle/Hybrid;Automat;14418;2023;SUV;Fyrhjulsdriven;355;Svart;1969;2022-11-01;Volvo;XC60;Värmland
+365000;Privat;Diesel;Automat;10335;2020;Kombi;Fyrhjulsdriven;191;Blå;1969;2019-12-02;Volvo;V90 Cross Country;Värmland
+159900;Företag;Diesel;Automat;18200;2015;Kombi;Fyrhjulsdriven;181;Svart;2400;2014-09-03;Volvo;V60;Värmland
+369900;Företag;El;Automat;3000;2022;SUV;Tvåhjulsdriven;234;Mörkblå;NA;2022-03-30;Volvo;XC40;Värmland
+599000;Företag;Miljöbränsle/Hybrid;Automat;11582;2022;SUV;Fyrhjulsdriven;463;Mörkblå;1969;2022-03-25;Volvo;XC90;Värmland
+35000;Privat;Bensin;Manuell;37692;2004;Sedan;Fyrhjulsdriven;210;Blå;2521;2003-11-14;Volvo;S60;Värmland
+29500;Privat;Bensin;Manuell;34629;2008;Kombi;Tvåhjulsdriven;170;Grå;2435;2007-07-03;Volvo;V70;Värmland
+345000;Företag;Bensin;Automat;9805;2019;SUV;Fyrhjulsdriven;251;Grå;1969;2019-03-25;Volvo;XC40;Värmland
+34500;Privat;Diesel;Manuell;28397;2012;Kombi;Tvåhjulsdriven;116;Svart;1560;2011-09-12;Volvo;V50;Värmland
+20000;Privat;Bensin;Manuell;30688;1988;Sedan;Tvåhjulsdriven;116;Vit;2316;1988-09-02;Volvo;740;Värmland
+104900;Företag;Diesel;Automat;23000;2014;Kombi;Tvåhjulsdriven;116;Vit;1560;2013-09-12;Volvo;V60;Värmland
+33000;Privat;Bensin;Manuell;38666;1998;Kombi;Tvåhjulsdriven;135;Grå;2316;1998-02-24;Volvo;940;Värmland
+84900;Företag;Bensin;Automat;17477;2008;Sedan;Tvåhjulsdriven;230;Ljusgrön;NA;2007-09-03;Volvo;S40;Värmland
+84900;Företag;Diesel;Automat;29800;2010;SUV;Fyrhjulsdriven;164;Brun;2400;2010-03-19;Volvo;XC60;Värmland
+258900;Företag;Diesel;Automat;15732;2016;Kombi;Fyrhjulsdriven;181;Brun;2400;2015-11-03;Volvo;XC70;Värmland
+129500;Privat;Bensin;Automat;29796;2018;Kombi;Tvåhjulsdriven;153;Grå;1498;2018-05-09;Volvo;V60;Värmland
+144800;Företag;Diesel;Manuell;14139;2014;Kombi;Tvåhjulsdriven;164;Silver;1984;2013-11-11;Volvo;V60;Värmland
+469800;Företag;Bensin;Automat;11650;2020;SUV;Fyrhjulsdriven;251;Grå;1969;2021-02-23;Volvo;XC90;Värmland
+25000;Privat;Bensin;Manuell;20158;1990;Sedan;Tvåhjulsdriven;116;Röd;2316;1990-08-15;Volvo;740;Värmland
+129900;Företag;Diesel;Manuell;20600;2016;Kombi;Tvåhjulsdriven;150;Svart;1969;2015-07-23;Volvo;V70;Värmland
+359900;Företag;Diesel;Automat;16102;2022;SUV;Fyrhjulsdriven;238;Svart;1969;2021-06-30;Volvo;XC60;Värmland
+54900;Företag;Diesel;Manuell;29036;2012;Sedan;Tvåhjulsdriven;116;Ljusgrå;1560;2011-11-10;Volvo;S60;Värmland
+187000;Privat;Diesel;Automat;41800;2021;Kombi;Tvåhjulsdriven;198;Svart;1969;2021-01-04;Volvo;V90;Värmland
+174900;Företag;Diesel;Automat;16500;2017;Kombi;Tvåhjulsdriven;191;Vit;1969;2016-12-20;Volvo;V60;Värmland
+99900;Företag;Diesel;Automat;28900;2011;Kombi;Fyrhjulsdriven;164;Grå;2400;2015-05-06;Volvo;XC70;Värmland
+129900;Företag;Diesel;Automat;19800;2015;Kombi;Tvåhjulsdriven;116;Vit;1560;2014-10-30;Volvo;V70;Värmland
+99900;Företag;Diesel;Automat;31450;2014;Kombi;Fyrhjulsdriven;181;Vit;2400;2014-05-22;Volvo;V60;Värmland
+64900;Företag;Miljöbränsle/Hybrid;Manuell;21927;2011;Kombi;Tvåhjulsdriven;232;Vit;2521;2010-11-30;Volvo;V70;Värmland
+27000;Privat;Bensin;Manuell;25815;2000;Sedan;Tvåhjulsdriven;141;Grå;2435;1999-11-24;Volvo;S70;Värmland
+105000;Privat;Diesel;Manuell;21400;2015;Kombi;Tvåhjulsdriven;181;Vit;1969;2014-08-29;Volvo;V60;Värmland
+25000;Privat;Bensin;Manuell;25520;1991;Kombi;Tvåhjulsdriven;116;Röd;2316;1990-10-04;Volvo;740;Värmland
+67000;Privat;Diesel;Manuell;32412;2011;Kombi;Tvåhjulsdriven;164;Grå;1984;2010-07-13;Volvo;V70;Värmland
+65000;Privat;Diesel;Automat;27876;2011;Kombi;Tvåhjulsdriven;164;Blå;1984;2010-11-29;Volvo;V70;Värmland
+19500;Privat;Bensin;Automat;37806;2004;Kombi;Fyrhjulsdriven;210;Svart;2521;2004-02-04;Volvo;V70;Värmland
+49900;Företag;Diesel;Automat;25766;2009;Kombi;Tvåhjulsdriven;136;Blå;1997;2009-04-27;Volvo;V50;Värmland
+309000;Företag;Diesel;Automat;17900;2018;SUV;Fyrhjulsdriven;236;Vit;1969;2017-12-22;Volvo;XC60;Värmland
+20000;Privat;Bensin;Manuell;30061;1999;Kombi;Tvåhjulsdriven;165;Grå;2435;1999-01-08;Volvo;V70;Värmland
+348800;Företag;Miljöbränsle/Hybrid;Automat;5674;2020;Kombi;Fyrhjulsdriven;304;Mörkblå;1969;2019-09-06;Volvo;V60;Värmland
+89900;Företag;Diesel;Automat;22800;2010;Kombi;Tvåhjulsdriven;176;Grå;2400;2010-02-18;Volvo;V70;Värmland
+90000;Privat;Diesel;Automat;37335;2015;Kombi;Tvåhjulsdriven;181;Svart;1969;2015-03-24;Volvo;V70;Värmland
+40500;Privat;Diesel;Manuell;29950;2012;Kombi;Tvåhjulsdriven;116;Vit;1560;2012-03-05;Volvo;V50;Värmland
+175000;Privat;Diesel;Automat;16914;2013;SUV;Fyrhjulsdriven;200;Silver;2401;2013-02-14;Volvo;XC90;Värmland
+99000;Företag;Diesel;Automat;26140;2013;Halvkombi;Tvåhjulsdriven;150;Grå;1984;2012-08-14;Volvo;V40;Blekinge
+219000;Företag;Bensin;Automat;7553;2019;Halvkombi;Tvåhjulsdriven;153;Grå;1498;2018-08-31;Volvo;V40 Cross Country;Blekinge
+144800;Företag;Bensin;Automat;18899;2016;Kombi;Tvåhjulsdriven;153;Röd;1498;2015-10-08;Volvo;V60;Blekinge
+79000;Företag;Diesel;Automat;31202;2011;Kombi;Fyrhjulsdriven;206;Svart;2400;2011-02-25;Volvo;V70;Blekinge
+164500;Företag;Diesel;Automat;17116;2013;SUV;Fyrhjulsdriven;165;Svart;2400;2013-04-17;Volvo;XC60;Blekinge
+229000;Företag;Diesel;Automat;13810;2017;SUV;Fyrhjulsdriven;191;Vit;2400;2017-06-15;Volvo;XC60;Blekinge
+23000;Privat;Miljöbränsle/Hybrid;Manuell;28664;2007;Halvkombi;Tvåhjulsdriven;126;Grå;1798;2007-01-29;Volvo;C30;Blekinge
+74900;Företag;Diesel;Automat;22951;2010;Kombi;Tvåhjulsdriven;176;Grå;2400;2009-11-25;Volvo;V70;Blekinge
+274500;Företag;Diesel;Manuell;9600;2020;SUV;Tvåhjulsdriven;191;Grå;1969;2020-03-17;Volvo;XC60;Blekinge
+89500;Företag;Miljöbränsle/Hybrid;Automat;25100;2011;Kombi;Tvåhjulsdriven;232;Vit;2521;2011-03-16;Volvo;V70;Blekinge
+349500;Företag;Diesel;Automat;8980;2022;Kombi;Fyrhjulsdriven;200;Mörkgrå;1969;2021-06-29;Volvo;V60 Cross Country;Blekinge
+489500;Företag;El;Automat;0;2025;SUV;Tvåhjulsdriven;275;Grå;NA;NA;Volvo;EX30;Blekinge
+489500;Företag;El;Automat;0;2025;SUV;Tvåhjulsdriven;275;Vit;NA;NA;Volvo;EX30;Blekinge
+79900;Företag;Diesel;Manuell;23478;2008;Kombi;Tvåhjulsdriven;164;Ljusgrå;2400;2007-11-28;Volvo;V70;Blekinge
+165000;Privat;Diesel;Manuell;9380;2017;Halvkombi;Tvåhjulsdriven;150;Svart;1969;2016-10-14;Volvo;V40 Cross Country;Blekinge
+75000;Privat;Diesel;Automat;28555;2014;Halvkombi;Tvåhjulsdriven;150;Grå;1984;2013-10-23;Volvo;V40;Blekinge
+32000;Privat;Bensin;Manuell;29870;2002;Kombi;Tvåhjulsdriven;200;Röd;2435;2001-12-05;Volvo;V70;Blekinge
+274800;Företag;Miljöbränsle/Hybrid;Automat;18850;2021;SUV;Tvåhjulsdriven;198;Svart;1969;2021-03-09;Volvo;XC60;Blekinge
+12000;Privat;Bensin;Manuell;28336;2001;Sedan;Tvåhjulsdriven;141;Grön;2435;2000-12-18;Volvo;S60;Blekinge
+77000;Privat;Bensin;Manuell;25427;2015;Kombi;Tvåhjulsdriven;180;Svart;1596;2014-09-30;Volvo;V70;Blekinge
+69000;Privat;Bensin;Manuell;20750;1987;Sedan;Tvåhjulsdriven;113;Blå;2316;1987-06-12;Volvo;244;Blekinge
+199000;Privat;Diesel;Automat;25453;2018;Kombi;Tvåhjulsdriven;191;Vit;1969;2018-02-08;Volvo;V90;Blekinge
+66000;Privat;Diesel;Automat;42000;2008;Kombi;Tvåhjulsdriven;164;Grå;2400;2008-05-02;Volvo;V70;Blekinge
+74900;Företag;Diesel;Manuell;19072;2011;Kombi;Tvåhjulsdriven;116;Ljusgrå;1560;2010-12-17;Volvo;V50;Blekinge
+369500;Företag;Miljöbränsle/Hybrid;Automat;5761;2022;SUV;Tvåhjulsdriven;214;Grå;1477;2022-02-07;Volvo;XC40;Blekinge
+19900;Företag;Bensin;Manuell;31813;2003;Sedan;Tvåhjulsdriven;141;Ljusgrå;2435;2003-01-29;Volvo;S60;Blekinge
+44800;Företag;Miljöbränsle/Hybrid;Manuell;27707;2008;Kombi;Tvåhjulsdriven;146;Vit;1999;2008-03-03;Volvo;V70;Blekinge
+110000;Privat;Bensin;Manuell;18616;2013;Kombi;Tvåhjulsdriven;180;Svart;1596;2013-05-03;Volvo;V70;Blekinge
+254800;Företag;Diesel;Automat;14224;2019;Kombi;Fyrhjulsdriven;191;Svart;1969;2019-12-17;Volvo;V60 Cross Country;Blekinge
+499500;Företag;Miljöbränsle/Hybrid;Automat;5600;2022;SUV;Fyrhjulsdriven;355;Mörkblå;1969;2022-03-17;Volvo;XC60;Blekinge
+90000;Privat;Diesel;Manuell;24508;2011;Kombi;Tvåhjulsdriven;164;Röd;1984;2011-05-27;Volvo;V70;Blekinge
+21000;Privat;Bensin;Automat;28700;2001;Kombi;Tvåhjulsdriven;200;Grå;2435;2001-06-21;Volvo;V70;Blekinge
+80000;Privat;Diesel;Manuell;11257;2012;Kombi;Tvåhjulsdriven;116;Grå;1560;2012-02-17;Volvo;V50;Blekinge
+189500;Företag;Diesel;Automat;22025;2016;SUV;Tvåhjulsdriven;203;Vit;1969;2015-06-17;Volvo;XC70;Blekinge
+299000;Företag;Diesel;Automat;11583;2019;SUV;Tvåhjulsdriven;191;Ljusblå;1969;2019-03-06;Volvo;XC60;Blekinge
+54000;Privat;Diesel;Automat;29150;2008;Kombi;Tvåhjulsdriven;164;Brun;2400;2008-05-06;Volvo;V70;Blekinge
+148000;Privat;Diesel;Automat;14835;2016;Halvkombi;Tvåhjulsdriven;120;Svart;1969;2016-04-27;Volvo;V40;Blekinge
+23000;Privat;Bensin;Manuell;31927;2005;Kombi;Tvåhjulsdriven;170;Grå;2435;2005-04-22;Volvo;V70;Blekinge
+99900;Företag;Diesel;Manuell;23513;2014;Halvkombi;Tvåhjulsdriven;150;Vit;1984;2013-12-17;Volvo;V40;Blekinge
+294500;Företag;Bensin;Automat;9831;2021;Kombi;Tvåhjulsdriven;165;Mörkgrå;1969;2020-12-15;Volvo;V60;Blekinge
+128000;Företag;Diesel;Manuell;14745;2016;Halvkombi;Tvåhjulsdriven;120;Vit;1969;2016-04-29;Volvo;V40;Blekinge
+649500;Företag;Miljöbränsle/Hybrid;Automat;3685;2024;SUV;Fyrhjulsdriven;463;Grå;1969;2023-10-12;Volvo;XC60;Blekinge
+649500;Företag;Miljöbränsle/Hybrid;Automat;3357;2024;SUV;Fyrhjulsdriven;463;Mörkblå;1969;2023-10-11;Volvo;XC60;Blekinge
+79000;Privat;Diesel;Manuell;24885;2011;Sedan;Tvåhjulsdriven;164;Röd;1984;2011-04-07;Volvo;S60;Blekinge
+409000;Företag;Miljöbränsle/Hybrid;Automat;7972;2023;Kombi;Fyrhjulsdriven;350;Svart;1969;2022-10-07;Volvo;V90;Blekinge
+39900;Företag;Diesel;Manuell;29899;2012;Kombi;Tvåhjulsdriven;116;Grå;1560;2011-07-15;Volvo;V50;Blekinge
+159000;Privat;Diesel;Manuell;22264;2015;SUV;Tvåhjulsdriven;181;Svart;1969;2014-09-04;Volvo;XC60;Blekinge
+429500;Företag;Diesel;Automat;4528;2023;Kombi;Tvåhjulsdriven;200;Grå;1969;2023-06-19;Volvo;V60;Blekinge
+284500;Företag;Bensin;Automat;11357;2021;Kombi;Tvåhjulsdriven;165;Mörkbrun;1969;2021-02-10;Volvo;V60;Blekinge
+318800;Företag;Diesel;Automat;7387;2020;SUV;Fyrhjulsdriven;191;Svart;1969;2019-12-18;Volvo;XC40;Blekinge
+254900;Företag;Bensin;Manuell;4538;2022;SUV;Tvåhjulsdriven;130;Svart;1477;2021-09-20;Volvo;XC 40;Skåne
+298000;Företag;Diesel;Automat;16621;2020;Kombi;Fyrhjulsdriven;191;Silver;1969;2019-12-20;Volvo;V90;Skåne
+25000;Privat ;Bensin;Manuell;34573;2004;Kombi;Tvåhjulsdriven;170;Grå;2435;2004-03-03;Volvo;V70;Skåne
+79500;Företag;Miljöbränsle/Hybrid;Manuell;19800;2010;Kombi;Tvåhjulsdriven;232;Grå;2521;2009-06-17;Volvo;V70;Skåne
+99900;Företag;Diesel;Automat;27599;2010;Kombi;Fyrhjulsdriven;206;Ljusbrun;NA;2014-05-16;Volvo;XC70;Skåne
+330000;Privat ;El;Automat;4700;2022;SUV;Tvåhjulsdriven;232;Blå;NA;2022-04-14;Volvo;XC40;Skåne
+6000;Privat ;Miljöbränsle/Hybrid;Manuell;22404;2006;Sedan;Tvåhjulsdriven;141;Röd;2435;2006-06-02;Volvo;S60;Skåne
+44900;Företag;Bensin;Automat;30024;1988;Sedan;Tvåhjulsdriven;116;Röd;NA;1988-11-21;Volvo;740;Skåne
+74900;Företag;Diesel;Manuell;26202;2012;Kombi;Tvåhjulsdriven;116;Ljusgrå;1560;2011-12-07;Volvo;V60;Skåne
+215000;Företag;Bensin;Automat;11000;2013;Sedan;Fyrhjulsdriven;330;Blå;2953;2013-03-13;Volvo;S60;Skåne
+479000;Företag;Miljöbränsle/Hybrid;Automat;13464;2019;SUV;Fyrhjulsdriven;304;Grå;1969;2018-09-17;Volvo;XC90;Skåne
+150000;Privat;Bensin;Manuell;20045;1956;NA;NA;NA;NA;NA;NA;Volvo;PV444;Skåne
+475000;Privat ;Miljöbränsle/Hybrid;Automat;5951;2020;SUV;Fyrhjulsdriven;422;Svart;1969;2020-07-10;Volvo;XC60;Skåne
+114900;Företag;Bensin;Automat;15703;2013;Kombi;Tvåhjulsdriven;180;Vit;1596;2013-01-07;Volvo;V70;Skåne
+269500;Företag;Bensin;Manuell;4963;2021;SUV;Tvåhjulsdriven;131;Svart;1477;2021-03-31;Volvo;XC40;Skåne
+279900;Företag;Miljöbränsle/Hybrid;Automat;8755;2021;Kombi;Fyrhjulsdriven;340;Svart;1969;2021-03-31;Volvo;V60;Skåne
+289900;Företag;Diesel;Automat;16550;2019;SUV;Fyrhjulsdriven;191;Silver;1969;2019-03-04;Volvo;XC60;Skåne
+369900;Företag;Miljöbränsle/Hybrid;Automat;5963;2021;Kombi;Fyrhjulsdriven;344;Grå;1969;2020-11-24;Volvo;V90;Skåne
+469500;Företag;El;Automat;855;2024;SUV;Tvåhjulsdriven;256;Grön;NA;2023-10-10;Volvo;C40;Skåne
+224900;Företag;Diesel;Automat;27800;2020;SUV;Fyrhjulsdriven;198;Vit;1969;2019-08-01;Volvo;XC60;Skåne
+334900;Företag;Miljöbränsle/Hybrid;Automat;15186;2022;Kombi;Fyrhjulsdriven;340;Vit;1969;2021-10-15;Volvo;V60;Skåne
+397800;Företag;Miljöbränsle/Hybrid;Automat;12760;2021;SUV;Fyrhjulsdriven;251;Vit;1969;2020-09-15;Volvo;XC60;Skåne
+409900;Företag;Miljöbränsle/Hybrid;Automat;7134;2023;Kombi;Fyrhjulsdriven;253;Svart;1969;2022-09-01;Volvo;V90;Skåne
+499900;Företag;Miljöbränsle/Hybrid;Automat;3184;2022;SUV;Fyrhjulsdriven;355;Svart;1969;2022-03-04;Volvo;XC60;Skåne
+339500;Företag;Bensin;Automat;5975;2021;SUV;Tvåhjulsdriven;200;Svart;1969;2020-09-03;Volvo;XC40;Skåne
+229000;Privat;Bensin;Automat;16389;2014;Kombi;Fyrhjulsdriven;305;Svart;2953;2013-12-30;Volvo;V60;Skåne
+159900;Företag;Diesel;Automat;24527;2018;Kombi;Tvåhjulsdriven;191;Grå;1969;2017-10-10;Volvo;V90;Skåne
+99500;Företag;Bensin;Automat;22500;2013;Kombi;Tvåhjulsdriven;180;Vit;1596;2013-01-07;Volvo;V70;Skåne
+499500;Företag;El;Automat;5;2025;SUV;Tvåhjulsdriven;256;Grå;NA;2024-09-27;Volvo;EX40;Skåne
+189500;Företag;Bensin;Manuell;9979;2017;Sedan;Tvåhjulsdriven;154;Svart;1969;2017-05-31;Volvo;S60;Skåne
+75000;Företag;Diesel;Manuell;NA;2016;SUV;Tvåhjulsdriven;150;Vit;1969;2015-05-29;Volvo;XC60;Skåne
+414900;Företag;Diesel;Automat;10400;2018;SUV;Fyrhjulsdriven;236;Mörkgrå;1969;2019-01-22;Volvo;XC90;Skåne
+339900;Företag;Miljöbränsle/Hybrid;Automat;10003;2021;SUV;Tvåhjulsdriven;214;Svart;1477;2021-03-09;Volvo;XC40;Skåne
+109000;Företag;Diesel;Manuell;20200;2012;Kombi;Tvåhjulsdriven;164;Silver;1984;2011-11-24;Volvo;V60;Skåne
+139900;Företag;Diesel;Automat;17162;2013;Halvkombi;Tvåhjulsdriven;150;Grå;1984;2013-08-19;Volvo;V40;Skåne
+145900;Företag;Diesel;Automat;19900;2016;Kombi;Tvåhjulsdriven;150;Grå;1969;2015-12-21;Volvo;V70;Skåne
+79900;Företag;Bensin;Manuell;17899;2012;Sedan;Tvåhjulsdriven;150;Ljusbrun;1596;2012-01-13;Volvo;S60;Skåne
+389900;Företag;Miljöbränsle/Hybrid;Automat;5500;2023;SUV;Tvåhjulsdriven;214;Grå;1477;2023-06-13;Volvo;XC40;Skåne
+379900;Företag;Diesel;Automat;4799;2023;Kombi;Tvåhjulsdriven;200;Grå;1969;2023-05-08;Volvo;V60;Skåne
+299900;Företag;Diesel;Automat;9035;2019;SUV;Tvåhjulsdriven;192;Svart;1969;2018-08-15;Volvo;XC60;Skåne
+369500;Företag;Diesel;Automat;10099;2022;Kombi;Fyrhjulsdriven;198;Svart;1969;2023-03-25;Volvo;V90;Skåne
+319900;Företag;Bensin;Automat;2828;2022;SUV;Tvåhjulsdriven;131;Svart;1477;2022-03-14;Volvo;XC40;Skåne
+328500;Företag;Bensin;Automat;12778;2020;SUV;Tvåhjulsdriven;253;Vit;1969;2019-12-30;Volvo;XC60;Skåne
+409500;Företag;El;Automat;167;2025;SUV;Tvåhjulsdriven;275;Grå;NA;2024-07-26;Volvo;EX30;Skåne
+529500;Företag;El;Automat;1677;2025;SUV;Tvåhjulsdriven;256;Svart;NA;2024-05-28;Volvo;EX40;Skåne
+579500;Företag;Miljöbränsle/Hybrid;Automat;6585;2022;SUV;Fyrhjulsdriven;463;Grå;1969;2021-12-22;Volvo;XC60;Skåne
+529500;Företag;El;Automat;827;2025;SUV;Tvåhjulsdriven;256;Ljusbrun;NA;2024-06-12;Volvo;EC40;Skåne
+509500;Företag;El;Automat;135;2025;SUV;Tvåhjulsdriven;275;Gul;NA;2024-08-02;Volvo;EX30;Skåne
+389900;Företag;Diesel;Automat;7500;2019;SUV;Fyrhjulsdriven;192;Vit;1969;2018-05-15;Volvo;V90 Cross Country;Skåne
+354000;Företag;El;Automat;5514;2022;SUV;Tvåhjulsdriven;234;Grön;NA;2022-01-14;Volvo;XC40;Skåne
+25000;Privat;Bensin;Automat;26191;2000;Kombi;Tvåhjulsdriven;200;Röd;2435;2003-09-05;Volvo;V70;Västmanland
+359900;Företag;El;Automat;2652;2022;SUV;Tvåhjulsdriven;234;Svart;NA;2022-03-23;Volvo;XC40;Västmanland
+379900;Företag;Miljöbränsle/Hybrid;Automat;13105;2021;SUV;Fyrhjulsdriven;398;Mörkblå;1969;2021-01-29;Volvo;XC60;Västmanland
+729900;Företag;Miljöbränsle/Hybrid;Automat;1433;2025;SUV;Fyrhjulsdriven;463;Svart;1969;2024-10-15;Volvo;XC60;Västmanland
+349900;Företag;El;Automat;7327;2022;SUV;Tvåhjulsdriven;234;Vit;NA;2022-03-04;Volvo;XC40;Västmanland
+23000;Privat;Diesel;Manuell;37023;2002;Sedan;Tvåhjulsdriven;164;Blå;2401;2001-09-25;Volvo;S60;Västmanland
+22000;Privat;Bensin;Automat;24900;2001;Coupé;Tvåhjulsdriven;164;Grå;1984;2001-08-07;Volvo;C70;Västmanland
+319000;Företag;Bensin;Automat;6612;2021;SUV;Fyrhjulsdriven;198;Svart;1969;2020-11-26;Volvo;XC40;Västmanland
+54900;Privat;Diesel;Manuell;21479;2011;Kombi;Tvåhjulsdriven;109;Svart;1560;2010-12-21;Volvo;V70;Västmanland
+145000;Privat;Bensin;Manuell;10000;2016;Halvkombi;Tvåhjulsdriven;123;Svart;1969;2015-09-15;Volvo;V40;Västmanland
+29000;Privat;Bensin;Automat;30163;2005;Kombi;Tvåhjulsdriven;210;Grå;2521;2004-11-23;Volvo;V70;Västmanland
+44000;Privat;Diesel;Manuell;25885;2012;Kombi;Tvåhjulsdriven;116;Svart;1560;2012-07-05;Volvo;V50;Västmanland
+42000;Privat;Diesel;Manuell;25005;2010;Kombi;Tvåhjulsdriven;136;Svart;1997;2010-02-26;Volvo;V50;Västmanland
+219900;Företag;Diesel;Automat;13458;2017;Kombi;Tvåhjulsdriven;225;Röd;1969;2016-09-12;Volvo;V60;Västmanland
+238900;Företag;Diesel;Automat;16360;2021;Kombi;Tvåhjulsdriven;198;Svart;1969;2021-03-29;Volvo;V60;Västmanland
+264900;Företag;Diesel;Automat;12865;2019;SUV;Fyrhjulsdriven;150;Grå;1969;2018-09-14;Volvo;XC40;Västmanland
+369900;Företag;Miljöbränsle/Hybrid;Automat;16402;2017;SUV;Fyrhjulsdriven;320;Svart;1969;2016-06-01;Volvo;XC90;Västmanland
+144700;Företag;Diesel;Automat;18500;2014;Halvkombi;Tvåhjulsdriven;150;Brun;1984;2013-08-07;Volvo;V40 Cross Country;Västmanland
+479000;Företag;Miljöbränsle/Hybrid;Automat;4395;2023;SUV;Fyrhjulsdriven;355;Svart;1969;2023-02-17;Volvo;XC60;Västmanland
+425000;Företag;Miljöbränsle/Hybrid;Automat;10274;2022;SUV;Fyrhjulsdriven;340;Svart;1969;2021-09-20;Volvo;XC60;Västmanland
+35000;Privat;Diesel;Manuell;29299;2012;Kombi;Tvåhjulsdriven;116;Röd;1560;2011-11-16;Volvo;V50;Västmanland
+224800;Företag;Diesel;Automat;13655;2019;Kombi;Tvåhjulsdriven;150;Mörkbrun;1969;2018-10-01;Volvo;V60;Västmanland
+144800;Företag;Diesel;Automat;12420;2014;Kombi;Tvåhjulsdriven;181;Svart;1969;2014-04-10;Volvo;V61;Västmanland
+179000;Företag;Diesel;Automat;16310;2016;Kombi;Fyrhjulsdriven;192;vit;2400;2015-08-31;Volvo;V60 Cross Country;Västmanland
+429000;Företag;Miljöbränsle/Hybrid;Automat;3214;2023;SUV;Tvåhjulsdriven;214;Grå;1477;2022-12-14;Volvo;XC40;Västmanland
+329900;Företag;Miljöbränsle/Hybrid;Automat;14400;2021;SUV;Fyrhjulsdriven;344;Silver;1969;2020-09-10;Volvo;XC60;Västmanland
+479900;Företag;Miljöbränsle/Hybrid;Automat;3902;2022;Kombi;Fyrhjulsdriven;463;Svart;1969;2022-02-15;Volvo;V60;Västmanland
+389900;Företag;Miljöbränsle/Hybrid;Automat;10376;2019;SUV;Fyrhjulsdriven;398;Silver;1969;2018-12-14;Volvo;XC60;Västmanland
+839900;Företag;Miljöbränsle/Hybrid;Automat;2265;2025;SUV;Fyrhjulsdriven;463;Grå;1969;2024-06-14;Volvo;XC90;Västmanland
+229900;Företag;Diesel;Manuell;12176;2020;SUV;Tvåhjulsdriven;151;Svart;1969;2019-10-16;Volvo;XC40;Västmanland
+304900;Företag;Bensin;Automat;9858;2019;Kombi;Tvåhjulsdriven;253;Vit;1969;2019-01-31;Volvo;V60;Västmanland
+349900;Företag;Miljöbränsle/Hybrid;Automat;15352;2022;Kombi;Fyrhjulsdriven;344;Vit;1969;2021-09-27;Volvo;V90;Västmanland
+599900;Företag;Diesel;Automat;9277;2022;SUV;Fyrhjulsdriven;238;Grå;1969;2022-02-24;Volvo;XC90;Västmanland
+169500;Företag;Miljöbränsle/Hybrid;Automat;16024;2016;Kombi;Fyrhjulsdriven;234;Svart;2400;2015-12-29;Volvo;V60;Västmanland
+359900;Företag;El;Automat;6200;2022;SUV;Tvåhjulsdriven;234;Grön;NA;2022-03-31;Volvo;XC40;Västmanland
+214400;Företag;Diesel;Automat;12465;2016;Kombi;Fyrhjulsdriven;192;Grå;2400;2015-10-28;Volvo;V60;Västmanland
+389900;Företag;El;Automat;3263;2022;SUV;Tvåhjulsdriven;234;Vit;NA;2022-02-03;Volvo;XC40;Västmanland
+279900;Företag;Bensin;Automat;15779;2020;Sedan;Tvåhjulsdriven;253;Mörkgrå;1969;2019-09-04;Volvo;S60;Västmanland
+394900;Företag;Miljöbränsle/Hybrid;Automat;6085;2022;Kombi;Fyrhjulsdriven;355;Svart;1969;2022-03-28;Volvo;V60;Västmanland
+174900;Företag;Bensin;Manuell;13090;2017;Sedan;Tvåhjulsdriven;154;vit;1969;2016-12-22;Volvo;S60;Västmanland
+389900;Företag;Diesel;Automat;3382;2024;Kombi;Tvåhjulsdriven;200;Grå;1969;2023-12-11;Volvo;V60;Västmanland
+209000;Företag;Diesel;Manuell;4686;2017;Sedan;Tvåhjulsdriven;151;vit;1969;2016-11-29;Volvo;S60 Cross Country;Västmanland
+194900;Företag;Diesel;Automat;19800;2017;Kombi;Tvåhjulsdriven;191;Silver;1969;2016-11-01;Volvo;V90;Västmanland
+49900;Företag;Miljöbränsle/Hybrid;Automat;31775;2009;Kombi;Tvåhjulsdriven;200;Blå;2521;2009-02-27;Volvo;V70;Västmanland
+299900;Företag;Diesel;Automat;12347;2017;Kombi;Fyrhjulsdriven;238;Grå;1969;2017-11-10;Volvo;V90;Västmanland
+329900;Företag;Bensin;Automat;3192;2022;SUV;Tvåhjulsdriven;131;Mörkblå;1477;2022-05-31;Volvo;XC40;Västmanland
+339900;Företag;El;Automat;8681;2022;SUV;Tvåhjulsdriven;234;Vit;NA;2022-01-27;Volvo;XC40;Västmanland
+94800;Företag;Diesel;Manuell;22606;2014;Kombi;Tvåhjulsdriven;116;Svart;1560;2013-12-30;Volvo;V60;Västmanland
+309500;Företag;Miljöbränsle/Hybrid;Automat;10500;2022;SUV;Tvåhjulsdriven;211;Svart;211;2022-01-19;Volvo;XC40;Västmanland
+204800;Företag;Bensin;Automat;8426;2017;Kombi;Tvåhjulsdriven;153;Röd;1498;2017-04-07;volvo;V60;Örebro
+420000;Privat;El;Automat;3300;2023;SUV;Tvåhjulsdriven;232;Vit;NA;2023-06-05;volvo;XC40;Örebro
+294800;Företag;Diesel;Automat;10993;2021;SUV;Tvåhjulsdriven;150;Svart;1969;2020-08-04;volvo;XC40;Örebro
+269800;Företag;Diesel;Automat;15269;2020;Kombi;Tvåhjulsdriven;191;Svart;1969;2022-10-12;volvo;V60;Örebro
+266900;Företag;Diesel;Automat;18425;2020;Kombi;Fyrhjulsdriven;191;Svart;1969;2019-12-27;volvo;V90;Örebro
+537900;Företag;Miljöbränsle/Hybrid;Automat;2583;2024;SUV;Fyrhjulsdriven;253;Ljusgrå;1969;2024-01-19;volvo;XC60;Örebro
+359900;Företag;Miljöbränsle/Hybrid;Automat;9635;2022;SUV;Tvåhjulsdriven;180;Mörkblå;1477;2022-03-29;volvo;XC40;Örebro
+329900;Företag;Miljöbränsle/Hybrid;Automat;6844;2021;Kombi;Fyrhjulsdriven;253;Vit;1969;2021-02-22;volvo;V60;Örebro
+339900;Företag;Miljöbränsle/Hybrid;Automat;10054;2022;Kombi;Fyrhjulsdriven;253;Grå;1969;2023-02-01;volvo;V60;Örebro
+719900;Företag;Miljöbränsle/Hybrid;Automat;3457;2023;SUV;Fyrhjulsdriven;310;Grå;1969;2023-04-17;volvo;XC90;Örebro
+419800;Företag;Miljöbränsle/Hybrid;Automat;10333;2023;Kombi;Fyrhjulsdriven;456;Svart;1969;2022-12-02;volvo;V60;Örebro
+129800;Företag;Diesel;Manuell;12790;2016;Halvkombi;Tvåhjulsdriven;120;Vit;1969;2016-05-06;volvo;V40;Örebro
+328800;Företag;Miljöbränsle/Hybrid;Automat;10533;2022;Kombi;Fyrhjulsdriven;350;Svart;1969;2022-04-04;volvo;V60;Örebro
+169800;Företag;Diesel;Automat;24903;2016;SUV;Fyrhjulsdriven;221;Silver;2400;2015-05-13;volvo;XC60;Örebro
+349800;Företag;Diesel;Automat;18815;2016;SUV;Fyrhjulsdriven;225;Vit;1969;2016-02-22;volvo;XC90;Örebro
+239800;Företag;Diesel;Automat;12699;2020;Kombi;Tvåhjulsdriven;150;Vit;1969;2019-11-04;volvo;V90;Örebro
+289800;Företag;Diesel;Automat;21982;2016;SUV;Fyrhjulsdriven;225;Silver;1969;2016-01-13;volvo;XC90;Örebro
+149800;Företag;Diesel;Automat;14698;2016;Halvkombi;Tvåhjulsdriven;120;Silver;1969;2015-11-30;volvo;V40;Örebro
+424800;Företag;Bensin;Automat;12175;2018;SUV;Fyrhjulsdriven;320;svart;1969;2017-11-10;volvo;XC90;Örebro
+429800;Företag;Diesel;Automat;6881;2020;SUV;Fyrhjulsdriven;198;svart;1969;2020-03-27;volvo;XC60;Örebro
+215000;Privat;Diesel;Automat;12500;2017;SUV;Tvåhjulsdriven;191;Grå;1969;2016-11-25;volvo;XC60;Örebro
+295000;Privat;Miljöbränsle/Hybrid;Automat;6575;2020;Kombi;Fyrhjulsdriven;340;Vit;1969;2020-10-01;volvo;V60;Örebro
+249000;Privat;Diesel;Automat;20752;2018;Kombi;Fyrhjulsdriven;191;Vit;1969;2017-06-07;volvo;V90;Örebro
+169800;Företag;Diesel;Automat;15008;2017;Halvkombi;Tvåhjulsdriven;150;Grå;1969;2016-05-24;volvo;V40;Örebro
+318900;Företag;Diesel;Automat;12310;2020;SUV;Fyrhjulsdriven;191;Grå;1969;2019-12-18;volvo;XC40;Örebro
+149900;Företag;Diesel;Manuell;28614;2016;Kombi;Fyrhjulsdriven;181;Svart;2400;2016-02-12;volvo;XC70;Örebro
+269900;Företag;El;Automat;14710;2022;SUV;Tvåhjulsdriven;234;Mörkblå;NA;2022-01-24;volvo;XC40;Örebro
+459900;Företag;Miljöbränsle/Hybrid;Automat;7328;2023;SUV;Fyrhjulsdriven;253;Grå;1969;2022-12-08;volvo;XC60;Örebro
+298800;Företag;Bensin;Automat;9297;2019;SUV;Tvåhjulsdriven;191;Svart;1969;2019-06-13;volvo;XC40;Örebro
+179400;Företag;Diesel;Automat;9741;2017;Halvkombi;Tvåhjulsdriven;120;Vit;1969;2017-03-21;volvo;V40;Örebro
+269900;Företag;Diesel;Automat;18309;2021;SUV;Fyrhjulsdriven;198;Vit;1969;2021-03-31;volvo;XC40;Örebro
+214800;Företag;Diesel;Automat;8978;2016;Kombi;Fyrhjulsdriven;191;Vit;2400;2015-05-13;volvo;V60;Örebro
+225000;Företag;Diesel;Automat;21511;2020;Kombi;Fyrhjulsdriven;191;Vit;1969;2020-01-30;volvo;V60 Cross Country;Örebro
+184900;Företag;Diesel;Automat;18178;2018;Kombi;Tvåhjulsdriven;191;Svart;1969;2017-06-19;volvo;V90;Örebro
+534900;Företag;Miljöbränsle/Hybrid;Automat;3951;2023;SUV;Fyrhjulsdriven;350;Ljusgrå;1969;2023-02-01;volvo;XC60;Örebro
+410000;Privat;Miljöbränsle/Hybrid;Automat;7701;2020;SUV;Fyrhjulsdriven;392;Grå;1969;2019-12-23;volvo;XC60;Örebro
+279900;Företag;Diesel;Automat;13605;2022;Kombi;Tvåhjulsdriven;198;Svart;1969;2022-02-28;volvo;V90;Örebro
+70000;Privat;Diesel;Automat;24262;2010;Kombi;Tvåhjulsdriven;176;Blå;2400;2010-02-16;volvo;V70;Örebro
+87000;Privat;Diesel;Manuell;17310;2014;Halvkombi;Tvåhjulsdriven;116;Vit;1560;2013-10-10;volvo;V40;Örebro
+68000;Privat;Miljöbränsle/Hybrid;Automat;35440;2013;Kombi;Tvåhjulsdriven;214;Blå;1984;2012-07-25;volvo;V70;Örebro
+119000;Företag;Diesel;Automat;20600;2013;SUV;Tvåhjulsdriven;164;Ljusgrå;1984;2013-02-19;volvo;XC60;Örebro
+74900;Företag;Miljöbränsle/Hybrid;Automat;23730;2011;Kombi;Tvåhjulsdriven;232;Ljusgrå;2521;2010-09-14;volvo;V70;Örebro
+134900;Företag;Diesel;Automat;19999;2015;Halvkombi;Tvåhjulsdriven;191;Grå;1969;2014-10-06;volvo;V40;Örebro
+51900;Privat;Diesel;Manuell;27873;2011;Kombi;Tvåhjulsdriven;109;Svart;1560;2010-11-19;volvo;V70;Örebro
+79800;Företag;Diesel;Manuell;29910;2011;SUV;Tvåhjulsdriven;164;Brun;1984;2010-09-30;volvo;XC60;Örebro
+155900;Företag;Diesel;Automat;24927;2014;SUV;Fyrhjulsdriven;181;Vit;2400;2014-03-18;volvo;XC60;Örebro
+148800;Företag;Diesel;Manuell;11500;2015;Sedan;Tvåhjulsdriven;115;Vit;1560;2014-08-26;volvo;V40 Cross Country;Örebro
+198000;Företag;Diesel;Automat;15500;2014;Kombi;Fyrhjulsdriven;215;Svart;2400;2013-08-09;volvo;XC70;Örebro
+129800;Företag;Diesel;Manuell;15884;2012;Kombi;Tvåhjulsdriven;164;Blå;1984;2012-03-13;volvo;V70;Örebro
+135100;Företag;Diesel;Automat;21378;2014;Kombi;Fyrhjulsdriven;230;Svart;2400;2014-01-22;volvo;V60;Örebro
+37900;Privat;Bensin;Automat;29900;2005;Kombi;Tvåhjulsdriven;170;Ljusgrå;2435;2004-10-28;Volvo;V70;Östergötland
+55000;Privat;Diesel;Manuell;21200;2010;Kombi;Tvåhjulsdriven;136;Grå;1997;2010-03-16;Volvo;V50;Östergötland
+95999;Privat;Diesel;Manuell;20077;2014;Halvkombi;Tvåhjulsdriven;116;Silver;1560;2014-06-03;Volvo;V40;Östergötland
+238900;Företag;Bensin;Automat;6201;2019;Halvkombi;Tvåhjulsdriven;153;Blå;1498;2019-01-29;Volvo;V40;Östergötland
+298900;Företag;Diesel;Automat;13287;2019;SUV;Fyrhjulsdriven;191;Svart;1969;2018-09-17;Volvo;XC60;Östergötland
+235000;Företag;Diesel;Automat;13500;2018;Kombi;Fyrhjulsdriven;150;Svart;1969;2017-05-29;Volvo;V90;Östergötland
+299900;Företag;Diesel;Automat;21860;2017;SUV;Fyrhjulsdriven;236;Silver;1969;2017-03-29;Volvo;XC90;Östergötland
+220000;Privat;Diesel;Automat;20500;2015;Kombi;Fyrhjulsdriven;181;Vit;2400;2014-10-30;Volvo;XC70;Östergötland
+344800;Företag;Diesel;Automat;3050;2022;Kombi;Tvåhjulsdriven;198;Silver;1969;2021-12-27;Volvo;V60;Östergötland
+474800;Företag;Miljöbränsle/Hybrid;Automat;5794;2022;SUV;Fyrhjulsdriven;253;Mörkblå;1969;2022-02-18;Volvo;XC60;Östergötland
+259000;Företag;Bensin;Manuell;3928;2022;SUV;Tvåhjulsdriven;130;Svart;1477;2022-02-11;Volvo;XC40;Östergötland
+539000;Företag;Miljöbränsle/Hybrid;Automat;656;2023;Sedan;Fyrhjulsdriven;310;Svart;1969;2024-05-24;Volvo;S60;Östergötland
+212800;Företag;Diesel;Manuell;8279;2019;Kombi;Tvåhjulsdriven;150;Grå;1969;2018-06-27;Volvo;V40 Cross Country;Östergötland
+334900;Företag;Bensin;Automat;5044;2024;Kombi;Tvåhjulsdriven;198;Svart;1969;2023-06-27;Volvo;V60;Östergötland
+359500;Företag;El;Automat;6343;2023;SUV;Tvåhjulsdriven;232;Ljusgrå;NA;2022-11-25;Volvo;XC40;Östergötland
+12500;Privat;Miljöbränsle/Hybrid;Manuell;24693;2008;Kombi;Tvåhjulsdriven;126;Brun;1798;2008-05-20;Volvo;V50;Östergötland
+459800;Företag;Diesel;Automat;7194;2022;SUV;Tvåhjulsdriven;198;Mörkblå;1969;2021-06-30;Volvo;XC60;Östergötland
+299500;Företag;Bensin;Automat;7687;2022;SUV;Tvåhjulsdriven;198;Mörkblå;1969;2022-01-25;Volvo;XC40;Östergötland
+30000;Privat;Bensin;Manuell;42112;1997;Sedan;Tvåhjulsdriven;135;Blå;2316;1996-11-19;Volvo;940;Östergötland
+26000;Privat;Diesel;Manuell;29800;2012;Kombi;Tvåhjulsdriven;116;Vit;1560;2011-05-13;Volvo;V50;Östergötland
+199900;Företag;Diesel;Automat;9280;2014;SUV;Tvåhjulsdriven;164;Brun;1984;2014-02-28;Volvo;XC60;Östergötland
+69900;Företag;Diesel;Manuell;19000;2011;Kombi;Tvåhjulsdriven;116;Grå;1560;2011-04-26;Volvo;V60;Östergötland
+358900;Företag;Bensin;Automat;4534;2024;SUV;Tvåhjulsdriven;164;Svart;1969;2023-09-19;Volvo;XC40;Östergötland
+529000;Företag;Miljöbränsle/Hybrid;Automat;5692;2020;SUV;Fyrhjulsdriven;304;Mörkgrå;1969;2019-11-26;Volvo;XC90;Östergötland
+349800;Företag;Diesel;Automat;8605;2021;Kombi;Tvåhjulsdriven;198;Grå;1969;2021-03-29;Volvo;V90;Östergötland
+489900;Företag;Miljöbränsle/Hybrid;Automat;2092;2022;Kombi;Fyrhjulsdriven;310;Vit;1969;2022-03-17;Volvo;V60;Östergötland
+499900;Företag;Diesel;Automat;8845;2023;Kombi;Fyrhjulsdriven;198;Svart;1969;2023-02-14;Volvo;V90 Cross Country;Östergötland
+50000;Privat;Diesel;Manuell;28049;2006;Kombi;Tvåhjulsdriven;164;Röd;2400;2006-08-18;Volvo;V70;Östergötland
+99900;Företag;Diesel;Automat;22286;2012;Kombi;Tvåhjulsdriven;164;Ljusbrun;1984;2011-07-07;Volvo;V60;Östergötland
+279800;Företag;Miljöbränsle/Hybrid;Automat;12000;2021;Kombi;Fyrhjulsdriven;253;Vit;1969;2020-09-11;Volvo;V60;Östergötland
+299500;Företag;Bensin;Automat;12699;2020;Kombi;Fyrhjulsdriven;253;Svart;1969;2019-11-07;Volvo;V60;Östergötland
+145000;Privat;Diesel;Manuell;18939;2018;Halvkombi;Tvåhjulsdriven;150;Brun;1969;2017-06-30;Volvo;V40 Cross Country;Östergötland
+22900;Privat;Diesel;Manuell;35223;2010;Kombi;Tvåhjulsdriven;109;Grå;1560;2010-02-17;Volvo;V50;Östergötland
+74900;Företag;Diesel;Manuell;11800;2010;Kombi;Tvåhjulsdriven;109;Vit;1560;2009-11-25;Volvo;V50;Östergötland
+219500;Företag;Bensin;Automat;14223;2019;Kombi;Tvåhjulsdriven;191;Silver;1969;2019-05-03;Volvo;V90;Östergötland
+39990;Företag;Diesel;Manuell;23100;2010;Kombi;Tvåhjulsdriven;109;Blå;1560;2009-10-15;Volvo;V50;Östergötland
+49990;Företag;Diesel;Automat;30310;2009;Kombi;Tvåhjulsdriven;164;Ljusbrun;2400;2008-07-10;Volvo;V70;Östergötland
+69900;Privat;Diesel;Manuell;25795;2011;Kombi;Tvåhjulsdriven;109;Svart;1560;2010-12-28;Volvo;V70;Östergötland
+74900;Företag;Miljöbränsle/Hybrid;Automat;22416;2010;Kombi;Tvåhjulsdriven;232;Grå;2521;2009-07-08;Volvo;V70;Östergötland
+289000;Företag;Diesel;Automat;11752;2020;SUV;Tvåhjulsdriven;191;Grå ;1969;2020-04-01;Volvo;XC60;Östergötland
+559000;Företag;El;Automat;759;2025;SUV;Tvåhjulsdriven;256;Ljusbrun;NA;2024-05-03;Volvo;EX40;Östergötland
+559000;Företag;El;Automat;670;2025;SUV;Tvåhjulsdriven;256;Ljusbrun;NA;2024-05-29;Volvo;EC40;Östergötland
+499000;Företag;Bensin;Automat;9916;2021;SUV;Fyrhjulsdriven;253;Svart;1969;2020-07-20;Volvo;XC90;Östergötland
+509000;Företag;El;Automat;800;2024;SUV;Tvåhjulsdriven;256;Vit;NA;2023-12-28;Volvo;C40;Östergötland
+609000;Företag;El;Automat;1225;2025;SUV;Fyrhjulsdriven;414;Vit;NA;2024-05-28;Volvo;EC40;Östergötland
+679000;Företag;Miljöbränsle/Hybrid;Automat;975;2025;SUV;Fyrhjulsdriven;463;Svart;1969;2024-06-28;Volvo;XC60;Östergötland
+99800;Företag;Diesel;Manuell;27070;2014;Sedan;Tvåhjulsdriven;116;Svart;1560;2014-04-16;Volvo;S60;Östergötland
+69000;Privat;Diesel;Manuell;27161;2011;Kombi;Tvåhjulsdriven;109;Röd;1560;2010-08-19;Volvo;V70;Östergötland
+208800;Företag;Diesel;Automat;11189;2018;Sedan;Tvåhjulsdriven;150;Grå;1969;2017-10-10;Volvo;S60 Cross Country;Östergötland
+168900;Företag;Bensin;Automat;11368;2017;Halvkombi;Tvåhjulsdriven;123;Svart;1498;2016-12-30;Volvo;V40;Östergötland
+223900;Privat;Diesel;Automat;13490;2019;Kombi;Tvåhjulsdriven;150;Svart;1969;2018-10-01;Volvo;V60;Västernorrland
+458900;Företag;Miljöbränsle/Hybrid;Automat;6748;2023;SUV;Fyrhjulsdriven;350;Svart;1969;2022-11-15;Volvo;XC60;Västernorrland
+129900;Företag;Diesel;Manuell;24200;2012;SUV;Fyrhjulsdriven;164;Svart;2400;2011-06-30;Volvo;XC60;Västernorrland
+349800;Företag;Diesel;Automat;13188;2022;SUV;Fyrhjulsdriven;198;Vit;1969;2021-10-08;Volvo;XC60;Västernorrland
+369800;Företag;Diesel;Automat;3687;2021;Kombi;Tvåhjulsdriven;198;Mörkblå;1969;2021-06-01;Volvo;V90;Västernorrland
+16999;Privat;Diesel;Manuell;47000;2005;Sedan;Tvåhjulsdriven;164;Brun;2401;2004-12-08;Volvo;S60;Västernorrland
+338900;Företag;Diesel;Automat;7450;2021;Kombi;Fyrhjulsdriven;191;Silver;1969;2020-10-27;Volvo;V60 Cross Country;Västernorrland
+478900;Företag;Miljöbränsle/Hybrid;Automat;8034;2021;Kombi;Fyrhjulsdriven;406;Grå;1969;2021-03-29;Volvo;V60;Västernorrland
+234800;Företag;Diesel;Automat;19221;2017;Kombi;Fyrhjulsdriven;191;Svart;1969;2017-02-23;Volvo;V90 Cross Country;Västernorrland
+199900;Företag;Diesel;Automat;5873;2014;Kombi;Fyrhjulsdriven;164;Vit;2400;2013-12-05;Volvo;V60;Västernorrland
+329800;Företag;Diesel;Automat;8266;2021;Kombi;Fyrhjulsdriven;198;Svart;1969;2021-01-14;Volvo;V90;Västernorrland
+160000;Privat;Diesel;Manuell;30000;1991;Kombi;Tvåhjulsdriven;NA;Blå;NA;NA;Volvo;960;Västernorrland
+378700;Företag;Miljöbränsle/Hybrid;Automat;9330;2022;SUV;Fyrhjulsdriven;198;Svart;1969;2022-02-10;Volvo;XC60;Västernorrland
+5000;Privat;Bensin;Manuell;36176;2004;Kombi;Tvåhjulsdriven;141;Blå;2435;2004-06-16;Volvo;V50;Västernorrland
+519800;Företag;Bensin;Automat;0;2024;Kombi;Fyrhjulsdriven;253;Grå;1969;2024-08-28;Volvo;V60 Cross Country;Västernorrland
+460000;Företag;Miljöbränsle/Hybrid;Automat;10300;2023;SUV;Fyrhjulsdriven;355;Vit;1969;2022-10-14;Volvo;XC60;Västernorrland
+349900;Företag;Bensin;Automat;6258;2022;SUV;Fyrhjulsdriven;200;Svart;1969;2022-06-23;Volvo;XC40;Västernorrland
+439000;Företag;Diesel;Automat;4600;2023;Kombi;Fyrhjulsdriven;200;Grå;1969;2022-12-06;Volvo;V60 Cross Country;Västernorrland
+289900;Företag;Diesel;Automat;13400;2018;Kombi;Fyrhjulsdriven;150;Svart;1969;2018-02-07;Volvo;V90;Västernorrland
+149900;Företag;Diesel;Automat;21961;2015;Kombi;Fyrhjulsdriven;181;Blå;2400;2014-12-10;Volvo;V60;Västernorrland
+269900;Företag;Diesel;Automat;14288;2017;Kombi;Fyrhjulsdriven;236;Vit;1969;2016-11-18;Volvo;V90;Västernorrland
+349900;Företag;Diesel;Automat;6153;2018;Kombi;Tvåhjulsdriven;191;Svart;1969;2018-06-01;Volvo;V90;Västernorrland
+539900;Företag;Miljöbränsle/Hybrid;Automat;4695;2023;SUV;Fyrhjulsdriven;355;Mörkblå;1969;2023-05-15;Volvo;XC60;Västernorrland
+279800;Företag;Diesel;Automat;14134;2019;SUV;Fyrhjulsdriven;191;Svart;1969;2019-02-08;Volvo;XC40;Västernorrland
+528900;Företag;Bensin;Automat;5725;2022;SUV;Fyrhjulsdriven;251;Grå;1969;2021-10-08;Volvo;XC90;Västernorrland
+419800;Företag;Miljöbränsle/Hybrid;Automat;11647;2023;SUV;Fyrhjulsdriven;355;Svart;1969;2022-07-22;Volvo;XC60;Västernorrland
+358000;Företag;Bensin;Automat;7383;2020;SUV;Fyrhjulsdriven;253;Mörkblå;1969;2019-10-10;Volvo;XC60;Västernorrland
+53000;Privat;Diesel;Automat;26650;2007;Sedan;Tvåhjulsdriven;185;Svart;2400;2007-05-18;Volvo;S80;Västernorrland
+8000;Privat;Bensin;Manuell;26156;1985;Kombi;Tvåhjulsdriven;104;Grå;1986;1985-02-04;Volvo;245;Västernorrland
+157000;Privat;Diesel;Manuell;17070;2014;SUV;Tvåhjulsdriven;181;Silver;1969;2014-05-06;Volvo;XC60;Västernorrland
+249900;Företag;Diesel;Automat;13059;2019;Kombi;Fyrhjulsdriven;191;Mörkblå;1969;2019-02-21;Volvo;V90;Västernorrland
+269900;Företag;Miljöbränsle/Hybrid;Automat;13800;2021;Kombi;Fyrhjulsdriven;340;Vit;1969;2021-01-12;Volvo;V60;Västernorrland
+409500;Företag;Diesel;Automat;3438;2023;Kombi;Tvåhjulsdriven;200;Silver;1969;2023-07-06;Volvo;V60;Västernorrland
+100;Företag;Diesel;Automat;32167;2013;Kombi;Tvåhjulsdriven;164;Röd;1984;2012-11-23;Volvo;V70;Västernorrland
+238800;Företag;Diesel;Automat;12030;2017;SUV;Fyrhjulsdriven;191;Ljusblå;2400;2016-12-14;Volvo;XC60;Västernorrland
+228900;Företag;Diesel;Automat;12094;2017;Kombi;Fyrhjulsdriven;191;Svart;2400;2017-01-30;Volvo;V60 Cross Country;Västernorrland
+80000;Privat;Diesel;Automat;28458;2008;Kombi;Fyrhjulsdriven;206;Svart;2401;2008-02-27;Volvo;V70;Västernorrland
+30000;Privat;Bensin;Manuell;19915;1988;Sedan;Tvåhjulsdriven;116;Vit;2316;1987-12-28;Volvo;740;Västernorrland
+269700;Företag;Diesel;Automat;13268;2018;Kombi;Fyrhjulsdriven;191;Grå;1969;2018-02-01;Volvo;V90;Västernorrland
+239700;Företag;Diesel;Automat;10885;2015;Kombi;Fyrhjulsdriven;181;Svart;2400;2015-04-07;Volvo;V70;Västernorrland
+378800;Företag;Bensin;Automat;7108;2021;Kombi;Tvåhjulsdriven;198;Grå;1969;2020-12-21;Volvo;V90;Västernorrland
+15000;Privat;Bensin;Manuell;33317;2002;Kombi;Tvåhjulsdriven;200;Blå;2435;2002-01-09;Volvo;V70;Västernorrland
+75000;Privat;Bensin;Manuell;10921;2004;Kombi;Tvåhjulsdriven;170;Grön;2435;2004-06-15;Volvo;V70;Västernorrland
+289900;Företag;Diesel;Automat;6321;2020;Kombi;Tvåhjulsdriven;191;Svart;1969;2020-06-25;Volvo;V90;Västernorrland
+25000;Privat;Bensin;Automat;26579;2004;Sedan;Tvåhjulsdriven;210;Svart;2521;2004-02-16;Volvo;S60;Västernorrland
+468900;Företag;Miljöbränsle/Hybrid;Automat;2668;2022;Kombi;Fyrhjulsdriven;340;Silver;1969;2021-11-10;Volvo;V60;Västernorrland
+298900;Företag;Diesel;Automat;12234;2018;SUV;Fyrhjulsdriven;191;Grå;1969;2018-02-20;Volvo;XC60;Västernorrland
+55000;Privat;Bensin;Manuell;20839;1993;Sedan;Tvåhjulsdriven;116;Blå;2316;1993-04-14;Volvo;244;Västernorrland
+119000;Företag;Diesel;Manuell;18000;2014;Kombi;Tvåhjulsdriven;164;Vit;1984;2013-06-12;Volvo;V60;Västernorrland
+249900;Företag;Diesel;Automat;14974;2019;SUV;Fyrhjulsdriven;150;Silver;1969;2018-11-20;Volvo;XC40;Västernorrland
+79500;Företag;Diesel;Manuell;25369;2012;SUV;Fyrhjulsdriven;215;Brun;2400;2015-04-21;Volvo;XC60;Jönköping
+389900;Företag;Bensin;Automat;4185;2024;SUV;Tvåhjulsdriven;165;Grön;1969;2023-10-23;Volvo;XC40;Jönköping
+379000;Företag;Diesel;Automat;6375;2020;SUV;Fyrhjulsdriven;192;Grå;1969;2020-05-29;Volvo;V90 Cross Country;Jönköping
+289900;Företag;Diesel;Automat;13800;2021;Kombi;Fyrhjulsdriven;198;Röd;1969;2021-03-15;Volvo;V60 Cross Country;Jönköping
+12900;Privat;Bensin;Manuell;39425;2000;Kombi;Tvåhjulsdriven;141;Grå;2435;2000-06-15;Volvo;V70;Jönköping
+229900;Företag;Bensin;Automat;12300;2018;Kombi;Tvåhjulsdriven;192;VIt;1969;2018-04-10;Volvo;V90;Jönköping
+295000;Företag;Miljöbränsle/Hybrid;Automat;15210;2022;Kombi;Fyrhjulsdriven;340;VIt;1969;2022-02-23;Volvo;V90;Jönköping
+7500;Privat;Bensin;Automat;32799;2001;Sedan;Tvåhjulsdriven;200;Blå;2435;2000-12-01;Volvo;S60;Jönköping
+128000;Företag;Diesel;Manuell;17641;2014;Kombi;Tvåhjulsdriven;164;Röd;1984;2013-10-24;Volvo;V70;Jönköping
+148000;Företag;Diesel;Automat;20449;2015;Kombi;Fyrhjulsdriven;181;Silver;2400;2014-10-22;Volvo;V70;Jönköping
+429000;Företag;Diesel;Automat;16800;2021;SUV;Fyrhjulsdriven;236;Grå;1969;2020-11-10;Volvo;XC90;Jönköping
+59000;Privat;Bensin;Manuell;21650;2008;Kombi;Tvåhjulsdriven;200;Röd;2521;2008-02-01;Volvo;V70;Jönköping
+399000;Företag;Diesel;Automat;12800;2018;SUV;Fyrhjulsdriven;236;Grå;1969;2017-09-15;Volvo;XC60;Jönköping
+238000;Företag;Diesel;Automat;19033;2021;Kombi;Tvåhjulsdriven;198;Mörkblå;1969;2021-02-22;Volvo;V90 ;Jönköping
+289800;Företag;Diesel;Automat;16624;2021;Kombi;Fyrhjulsdriven;198;Svart;1969;2021-04-16;Volvo;V90 Cross Country;Jönköping
+162900;Företag;Diesel;Automat;21800;2018;Kombi;Fyrhjulsdriven;191;VIt;2400;2018-02-12;Volvo;V60 Cross Country;Jönköping
+324900;Företag;Bensin;Automat;3300;2022;SUV;Tvåhjulsdriven;165;Svart;1477;2022-05-31;Volvo;XC40;Jönköping
+269000;Företag;Bensin;Automat;9987;2021;Kombi;Tvåhjulsdriven;165;Röd;1969;2020-12-21;Volvo;V60;Jönköping
+164900;Företag;Diesel;Automat;19700;2014;SUV;Fyrhjulsdriven;200;VIt;2400;2014-06-04;Volvo;XC90;Jönköping
+249500;Företag;Miljöbränsle/Hybrid;Automat;15900;2020;Kombi;Fyrhjulsdriven;340;Silver;1969;2020-06-05;Volvo;V60;Jönköping
+35750;Privat;Miljöbränsle/Hybrid;Manuell;36663;2008;Kombi;Tvåhjulsdriven;146;Silver;1999;2008-01-10;Volvo;V70;Jönköping
+304500;Företag;Diesel;Automat;12940;2021;SUV;Tvåhjulsdriven;198;Svart;1969;2021-01-25;Volvo;XC60;Jönköping
+129900;Företag;Diesel;Manuell;28630;2014;Kombi;Tvåhjulsdriven;181;Blå;1969;2014-04-17;Volvo;V60;Jönköping
+239000;Privat;Bensin;Automat;15200;2021;SUV;Tvåhjulsdriven;198;Svart;1969;2021-03-31;Volvo;XC40;Jönköping
+249500;Företag;Diesel;Automat;17327;2018;Kombi;Fyrhjulsdriven;191;Grå;1969;2018-03-21;Volvo;V90;Jönköping
+339900;Företag;Diesel;Automat;4607;2023;Kombi;Tvåhjulsdriven;200;Mörkblå;1969;2022-09-01;Volvo;V60;Jönköping
+269000;Företag;Diesel;Automat;17395;2021;Kombi;Fyrhjulsdriven;198;Grå;1969;2021-03-23;Volvo;V60;Jönköping
+368800;Företag;Miljöbränsle/Hybrid;Automat;8510;2020;Kombi;Fyrhjulsdriven;304;VIt;1969;2020-02-17;Volvo;V60;Jönköping
+11500;Privat;Bensin;Manuell;29985;2007;Kombi;Tvåhjulsdriven;141;Röd;2435;2007-04-10;Volvo;V70;Jönköping
+114900;Företag;Diesel;Automat;19889;2012;Kombi;Tvåhjulsdriven;164;Röd;1984;2011-07-18;Volvo;V60;Jönköping
+204900;Företag;Diesel;Automat;20405;2020;Kombi;Tvåhjulsdriven;191;Silver;1969;2020-03-02;Volvo;V60;Jönköping
+299000;Företag;Diesel;Automat;16400;2021;Kombi;Fyrhjulsdriven;198;VIt;1969;2021-03-10;Volvo;V90 Cross Country;Jönköping
+121900;Företag;Diesel;Manuell;23201;2017;SUV;Tvåhjulsdriven;150;Vit;1969;2016-11-29;Volvo;XC60;Jönköping
+369900;Företag;Diesel;Automat;4324;2022;Kombi;Tvåhjulsdriven;200;Svart;1969;2022-04-12;Volvo;V90;Jönköping
+419000;Företag;Miljöbränsle/Hybrid;Automat;7140;2022;Kombi;Fyrhjulsdriven;463;Svart;1969;2022-03-21;Volvo;V60;Jönköping
+479000;Företag;Diesel;Automat;17800;2021;SUV;Fyrhjulsdriven;236;Grå;1969;2020-12-08;Volvo;XC90;Jönköping
+279500;Företag;Diesel;Automat;13900;2017;Kombi;Fyrhjulsdriven;236;Svart;1969;2016-12-08;Volvo;V90;Jönköping
+15000;Privat;Diesel;Manuell;40951;2006;Kombi;Tvåhjulsdriven;185;Grå;2400;2005-12-02;Volvo;V70;Jönköping
+239000;Företag;Bensin;Automat;11672;2019;Kombi;Tvåhjulsdriven;191;Grå;1969;2018-07-19;Volvo;V90;Jönköping
+139000;Privat;Diesel;Automat;27829;2014;Kombi;Fyrhjulsdriven;215;Vit;2400;2014-02-21;Volvo;XC70;Jönköping
+34900;Privat;Bensin;Manuell;27247;1996;Sedan;Tvåhjulsdriven;135;Grå;2316;1995-11-24;Volvo;940;Jönköping
+279900;Företag;Miljöbränsle/Hybrid;Automat;11959;2022;Kombi;Fyrhjulsdriven;340;Svart;1969;2021-06-30;Volvo;V60;Jönköping
+388900;Företag;Diesel;Automat;5438;2022;SUV;Fyrhjulsdriven;198;Mörkblå;1969;2022-02-11;Volvo;XC60;Jönköping
+189800;Företag;Diesel;Automat;18900;2017;SUV;Tvåhjulsdriven;191;Silver;1969;2017-06-12;Volvo;XC60;Jönköping
+124800;Företag;Diesel;Automat;21203;2013;Kombi;Tvåhjulsdriven;165;Blå;1984;2012-06-20;Volvo;V60;Jönköping
+340000;Privat;Bensin;Automat;7000;2021;Kombi;Tvåhjulsdriven;251;Grå;1969;2020-09-15;Volvo;V90;Jönköping
+214000;Företag;Diesel;Automat;14950;2019;Kombi;Tvåhjulsdriven;150;VIt;1969;2019-04-29;Volvo;V60;Jönköping
+288000;Företag;Diesel;Automat;17429;2020;Kombi;Fyrhjulsdriven;200;Svart;1969;2019-11-15;Volvo;V90;Jönköping
+227900;Företag;Diesel;Automat;12000;2017;Kombi;Tvåhjulsdriven;150;Silver;1969;2017-02-10;Volvo;V90;Jönköping
+329700;Företag;Diesel;Automat;13400;2017;Kombi;Fyrhjulsdriven;236;Mörkbrun;1969;2017-02-02;Volvo;V90 Cross Country;Jönköping
+284 800;Företag;Bensin;Automat;4947;2022;SUV;Tvåhjulsdriven;131;Röd;1477;2022-03-31;Volvo;XC40;Uppsala
+699500;Företag;Miljöbränsle/Hybrid;Automat;5908;2023;SUV;Fyrhjulsdriven;463;Grå;1969;2022-10-10;Volvo;XC90;Uppsala
+759500;Företag;Miljöbränsle/Hybrid;Automat;2829;2023;SUV;Fyrhjulsdriven;463;Silver;1969;2023-04-12;Volvo;XC90;Uppsala
+18000;Privat;Bensin;Automat;43685;2004;Kombi;Tvåhjulsdriven;210;Blå;2521;2003-09-19;Volvo;V70;Uppsala
+619500;Företag;Miljöbränsle/Hybrid;Automat;7580;2022;SUV;Fyrhjulsdriven;398;Svart;1969;2021-06-15;Volvo;XC90;Uppsala
+78800;Företag;Miljöbränsle/Hybrid;Manuell;12186;2011;Sedan;Tvåhjulsdriven;146;Röd;1999;2011-05-09;Volvo;S40;Uppsala
+229900;Företag;Diesel;Automat;7751;2019;Halvkombi;Tvåhjulsdriven;150;Grå;1969;2019-06-12;Volvo;V40 Cross Country;Uppsala
+439900;Företag;Miljöbränsle/Hybrid;Automat;7706;2020;SUV;Fyrhjulsdriven;392;Röd;1969;2020-06-08;Volvo;XC60;Uppsala
+309900;Företag;Miljöbränsle/Hybrid;Automat;16411;2020;SUV;Fyrhjulsdriven;392;Vit;1969;2020-05-29;Volvo;XC60;Uppsala
+84800;Företag;Miljöbränsle/Hybrid;Manuell;16776;2011;Kombi;Tvåhjulsdriven;146;Grå;1999;2010-11-12;Volvo;V70;Uppsala
+132 800;Företag;Diesel;Automat;29998;2015;Kombi;Fyrhjulsdriven;181;Ljusbrun;2400;2015-03-09;Volvo;V70;Uppsala
+419800;Företag;Diesel;Automat;4730;2023;Kombi;Tvåhjulsdriven;198;Grå;1969;2023-09-07;Volvo;V60;Uppsala
+269800;Företag;Diesel;Automat;11137;2020;Kombi;Tvåhjulsdriven;191;Svart;1969;2019-12-12;Volvo;V60;Uppsala
+284800;Företag;Diesel;Automat;9285;2017;Kombi;Fyrhjulsdriven;236;Grå;1969;2016-10-13;Volvo;V90;Uppsala
+589800;Företag;Miljöbränsle/Hybrid;Automat;8465;2021;SUV;Fyrhjulsdriven;392;Vit;1969;2020-08-14;Volvo;XC90;Uppsala
+359800;Företag;Diesel;Automat;16850;2021;SUV;Fyrhjulsdriven;236;Svart;1969;2020-10-15;Volvo;XC60;Uppsala
+119800;Företag;Diesel;Automat;17200;2011;Kombi;Fyrhjulsdriven;225;Svart;2400;2010-06-04;Volvo;V70;Uppsala
+314900;Företag;Bensin;Automat;3725;2022;SUV;Tvåhjulsdriven;131;Svart;1477;2022-02-10;Volvo;XC40;Uppsala
+479400;Företag;El;Automat;923;2023;SUV;Fyrhjulsdriven;414;Grå;NA;2022-09-26;Volvo;XC40;Uppsala
+459900;Företag;El;Automat;1774;2024;SUV;Tvåhjulsdriven;256;Silver;NA;2023-11-24;Volvo;XC40;Uppsala
+219800;Företag;Diesel;Automat;15946;2017;Sedan;Tvåhjulsdriven;191;Svart;1969;2017-03-17;Volvo;S90;Uppsala
+314700;Företag;Bensin;Automat;7716;2022;SUV;Tvåhjulsdriven;164;Svart;1477;2021-08-03;Volvo;XC40;Uppsala
+339900;Företag;El;Automat;9379;2022;SUV;Tvåhjulsdriven;234;Silver;NA;2022-05-10;Volvo;XC40;Uppsala
+419900;Företag;Diesel;Automat;2860;2023;Kombi;Tvåhjulsdriven;200;Grå;1969;2023-05-25;Volvo;V60;Uppsala
+259900;Företag;Bensin;Manuell;6063;2022;SUV;Tvåhjulsdriven;131;Röd;1477;2022-01-24;Volvo;XC40;Uppsala
+349300;Företag;El;Automat;534;2024;SUV;Tvåhjulsdriven;275;Grå;NA;2024-03-29;Volvo;EX30;Uppsala
+529900;Företag;Diesel;Automat;7106;2023;SUV;Fyrhjulsdriven;200;Mörkblå;1969;2023-01-30;Volvo;XC60;Uppsala
+314900;Företag;Bensin;Automat;3665;2021;Kombi;Tvåhjulsdriven;200;Svart;1969;2021-06-08;Volvo;V60;Uppsala
+429400;Företag;Miljöbränsle/Hybrid;Automat;2176;2024;Kombi;Fyrhjulsdriven;355;Grå;1969;2023-12-21;Volvo;V90;Uppsala
+219800;Företag;Diesel;Automat;14096;2019;Kombi;Tvåhjulsdriven;150;Svart;1969;2018-09-03;Volvo;V60;Uppsala
+149800;Företag;Bensin;Automat;20455;2018;Kombi;Tvåhjulsdriven;153;Vit;1498;2018-04-05;Volvo;V60;Uppsala
+298900;Företag;Diesel;Automat;16300;2021;Kombi;Fyrhjulsdriven;198;Svart;1969;2021-03-24;Volvo;V90 Cross Country;Uppsala
+68500;Privat;Diesel;Manuell;22640;2012;Kombi;Tvåhjulsdriven;116;Grå;1560;2011-12-01;Volvo;V70;Uppsala
+339800;Företag;Diesel;Automat;8794;2021;Kombi;Fyrhjulsdriven;198;Svart;1969;2021-01-11;Volvo;V90;Uppsala
+438900;Företag;Diesel;Automat;5733;2023;Kombi;Fyrhjulsdriven;198;Vit;1969;2022-10-03;Volvo;V90 Cross Country;Uppsala
+562900;Företag;El;Automat;0;2025;SUV;Tvåhjulsdriven;256;Grå;NA;NA;Volvo;EX40;Uppsala
+562900;Företag;El;Automat;0;2025;SUV;Tvåhjulsdriven;256;Grå;NA;NA;Volvo;EX40;Uppsala
+39000;Privat;Bensin;Manuell;25100;2010;Kombi;Tvåhjulsdriven;146;Brun;1999;2009-05-26;Volvo;V70;Uppsala
+319900;Företag;Miljöbränsle/Hybrid;Automat;11000;2020;Kombi;Fyrhjulsdriven;198;Röd;1969;2021-03-23;Volvo;V60 Cross Country;Uppsala
+419000;Företag;Miljöbränsle/Hybrid;Automat;8141;2020;SUV;Fyrhjulsdriven;392;Grå;1969;2020-07-06;Volvo;XC60;Uppsala
+348800;Företag;Diesel;Automat;4931;2021;Kombi;Tvåhjulsdriven;198;Grå;1969;2021-03-29;Volvo;V90;Uppsala
+259800;Företag;Bensin;Automat;8702;2020;Kombi;Tvåhjulsdriven;191;Vit;1969;2020-06-15;Volvo;V60;Uppsala
+115000;Privat;Diesel;Manuell;13454;2013;Halvkombi;Tvåhjulsdriven;116;Brun;1560;2012-10-05;Volvo;V40;Uppsala
+229900;Företag;Diesel;Automat;29678;2019;Kombi;Fyrhjulsdriven;236;Mörkgrå;1969;2018-05-15;Volvo;V90 Cross Country;Uppsala
+339800;Företag;Diesel;Automat;14044;2019;SUV;Fyrhjulsdriven;236;Grå;1969;2018-06-04;Volvo;XC60;Uppsala
+199900;Företag;Diesel;Automat;24753;2020;Kombi;Fyrhjulsdriven;191;Svart;1969;2019-11-29;Volvo;V60 Cross Country;Uppsala
+249900;Företag;Miljöbränsle/Hybrid;Automat;20712;2020;Kombi;Fyrhjulsdriven;340;Svart;1969;2020-06-01;Volvo;V60;Uppsala
+299900;Företag;Miljöbränsle/Hybrid;Automat;15270;2021;Kombi;Fyrhjulsdriven;340;Svart;1969;2020-12-16;Volvo;V60;Uppsala
+274900;Företag;Miljöbränsle/Hybrid;Automat;19128;2020;Kombi;Fyrhjulsdriven;392;Vit;1969;2020-03-31;Volvo;V60;Uppsala
+199900;Företag;Miljöbränsle/Hybrid;Automat;12556;2018;Kombi;Fyrhjulsdriven;232;Grå;2400;2018-04-25;Volvo;V60;Uppsala
+55000;Privat;Diesel;Automat;35727;2008;SUV;Fyrhjulsdriven ;185;Blå;2401;2008-05-28;Volvo;XC90;Kronoberg
+279000;Företag;Diesel;Automat;16500;2021;Sedan;Fyrhjulsdriven ;198;Vit;1969;2021-01-15;Volvo;V60 Cross Country;Kronoberg
+149900;Företag;Diesel;Automat;23304;2014;SUV;Tvåhjulsdriven;181;Svart;1969;2014-04-30;Volvo;XC60;Kronoberg
+539000;Företag;Miljöbränsle/Hybrid;Automat;5626;2024;SUV;Fyrhjulsdriven ;355;Mörkblå;1969;2023-12-18;Volvo;XC60;Kronoberg
+254900;Företag;Miljöbränsle/Hybrid;Automat;17220;2021;Kombi;Tvåhjulsdriven;198;Grå;1969;2021-01-29;Volvo;V90;Kronoberg
+100000;Privat;Diesel ;Manuell;20906;2013;Kombi;Tvåhjulsdriven;164;Grå;1984;2012-12-29;Volvo;V70;Kronoberg
+459000;Företag;El;Automat;3337;2024;SUV;Tvåhjulsdriven;256;Grå;NA;2023-09-27;Volvo;XC40;Kronoberg
+75000;Privat;Diesel ;Automat;32167;2010;Kombi;Tvåhjulsdriven;176;Vit;2400;2009-09-07;Volvo;V70;Kronoberg
+45000;Privat;Bensin;Manuell;24936;2009;Kombi;Tvåhjulsdriven;146;Grå;1999;2008-09-18;Volvo;V70;Kronoberg
+109000;Företag;Bensin;Manuell;1590;2013;Kombi;Tvåhjulsdriven;180;Svart;1596;2013-01-25;Volvo;V60;Kronoberg
+74900;Företag;Diesel ;Manuell;16581;2010;Kombi;Tvåhjulsdriven;109;Svart;1650;2009-06-30;Volvo;V50;Kronoberg
+14000;Privat;Bensin;Manuell;33825;2006;Kombi;Tvåhjulsdriven;170;Grå;2435;2006-07-24;Volvo;V70;Kronoberg
+89900;Privat;Diesel;Manuell;24800;2014;Kombi;Tvåhjulsdriven;116;Svart;1560;2013-11-06;Volvo;V60;Kronoberg
+294900;Företag;Diesel ;Automat;10300;2019;Kombi;Fyrhjulsdriven ;191;Vit;1969;2019-02-21;Volvo;V60 Cross Country;Kronoberg
+124900;Företag;Diesel;Automat;21930;2013;SUV;Tvåhjulsdriven;164;Vit;1984;2012-12-10;Volvo;XC60;Kronoberg
+287000;Företag;Diesel ;Automat;15000;2019;Kombi;Fyrhjulsdriven ;191;Silver;1969;2018-12-03;Volvo;V90 Cross Country;Kronoberg
+180000;Privat;Diesel ;Manuell;18739;2016;SUV;Fyrhjulsdriven ;191;Vit;2400;2015-05-28;Volvo;XC60;Kronoberg
+359000;Företag;El;Automat;3865;2023;SUV;Tvåhjulsdriven;234;Svart;NA;2023-02-17;Volvo;XC40;Kronoberg
+334898;Företag;Diesel ;Automat;7931;2022;Kombi;Fyrhjulsdriven ;198;Vit;1969;2021-12-29;Volvo;V60 Cross Country;Kronoberg
+229900;Företag;Diesel ;Automat;14371;2019;Kombi;Tvåhjulsdriven;192;Silver;1969;2018-10-05;Volvo;V60;Kronoberg
+164900;Företag;Diesel ;Automat;19870;2014;SUV;Fyrhjulsdriven ;200;Vit;2400;2014-08-29;Volvo;XC90;Kronoberg
+125000;Privat;Diesel ;Manuell;25000;2015;Kombi;Tvåhjulsdriven;181;Silver;1969;2014-10-15;Volvo;V60;Kronoberg
+349000;Företag;Bensin;Automat;8413;2018;SUV;Fyrhjulsdriven ;253;Mörkgrå;1969;2018-03-08;Volvo;XC60;Kronoberg
+245000;Företag;Diesel ;Automat;11142;2020;Kombi;Tvåhjulsdriven;151;Grå;1969;2019-07-23;Volvo;V60;Kronoberg
+247000;Företag;Diesel ;Manuell;14028;2016;SUV;Fyrhjulsdriven ;184;Silver;2400;2015-11-12;Volvo;XC70;Kronoberg
+89000;Privat;Bensin;Automat;28278;2012;Kombi;Tvåhjulsdriven;241;Grå;1999;2011-12-09;Volvo;V60;Kronoberg
+329900;Företag;Bensin;Automat;14007;2020;Sedan;Fyrhjulsdriven ;251;Blå;1969;2019-09-05;Volvo;S60;Kronoberg
+409000;Företag;Diesel ;Automat;12500;2022;Kombi;Fyrhjulsdriven ;198;Svart;1969;2021-06-24;Volvo;V90 Cross Country;Kronoberg
+198900;Företag;Diesel ;Automat;19485;2016;SUV;Fyrhjulsdriven ;191;Blå;2400;2015-07-29;Volvo;XC60;Kronoberg
+249000;Företag;Diesel ;Automat;12522;2017;Kombi;Fyrhjulsdriven ;192;Ljusbrun;1969;2017-01-09;Volvo;V90;Kronoberg
+75000;Privat;Diesel ;Manuell;22287;2012;Kombi;Tvåhjulsdriven;116;Svart;1560;2011-11-30;Volvo;V60;Kronoberg
+10000;Privat;Bensin;Manuell;45363;2001;Kombi;Tvåhjulsdriven;251;Grå;2319;2001-06-28;Volvo;V70;Kronoberg
+369000;Företag;El;Automat;4649;2022;SUV;Tvåhjulsdriven;234;Silver;NA;2022-02-03;Volvo;XC40;Kronoberg
+279900;Företag;Diesel ;Automat;8830;2018;SUV;Fyrhjulsdriven ;191;Vit;1969;2018-04-10;Volvo;XC40;Kronoberg
+489500;Företag;El;Automat;4060;2024;SUV;Tvåhjulsdriven;256;Grå;NA;2023-09-05;Volvo;XC40;Kronoberg
+339000;Företag;Miljöbränsle/Hybrid;Automat;8820;2021;SUV;Tvåhjulsdriven;214;Svart;1477;2021-04-20;Volvo;XC40;Kronoberg
+346900;Företag;Diesel ;Automat;7817;2021;Kombi;Tvåhjulsdriven;191;Vit;1969;2020-08-13;Volvo;V60;Kronoberg
+144900;Företag;Diesel ;Manuell;13649;2014;Kombi;Tvåhjulsdriven;181;Silver;1969;2013-12-27;Volvo;V60;Kronoberg
+199000;Företag;Diesel ;Automat;11174;2019;Halvkombi;Tvåhjulsdriven;150;Svart;1969;2019-03-18;Volvo;V40 Cross Country;Kronoberg
+59000;Privat;Diesel ;Automat;30384;2008;Kombi;Tvåhjulsdriven;185;Grå;2400;2008-05-05;Volvo;V70;Kronoberg
+69500;Företag;Bensin;Manuell;20800;2008;Kombi;Tvåhjulsdriven;170;Grå;2435;2007-09-12;Volvo;V70;Kronoberg
+59500;Företag;Diesel ;Manuell;22400;2011;Kombi;Tvåhjulsdriven;115;Blå;1560;2010-07-05;Volvo;V50;Kronoberg
+289500;Företag;Bensin;Automat;9686;2019;Kombi;Tvåhjulsdriven;253;Vit;1969;2019-01-25;Volvo;V60;Kronoberg
+99900;Företag;Bensin;Manuell;10885;2007;Sedan;Tvåhjulsdriven;210;Mörkröd;2521;2006-12-20;Volvo;S60;Kronoberg
+449000;Företag;Diesel ;Automat;1800;2024;Sedan;Fyrhjulsdriven ;198;Grå;1969;2023-08-23;Volvo;V60 Cross Country;Kronoberg
+199000;Företag;Diesel ;Automat;13990;2017;SUV;Tvåhjulsdriven;151;Svart;1969;2016-05-31;Volvo;XC60;Kronoberg
+349000;Företag;Diesel ;Automat;11400;2023;Sedan;Fyrhjulsdriven ;198;Svart;1969;2023-02-02;Volvo;V60 Cross Country;Kronoberg
+95000;Privat;Diesel;Manuell;21934;2014;Sedan;Tvåhjulsdriven;164;Vit;1984;2013-11-20;Volvo;S60;Kronoberg
+289900;Företag;Bensin;Automat;11980;2021;Kombi;Tvåhjulsdriven;198;Vit;1969;2021-01-28;Volvo;V90;Kronoberg
+70000;Privat;Diesel ;Manuell;34000;2012;Kombi;Tvåhjulsdriven;164;Svart;1984;2012-04-26;Volvo;V70;Kronoberg
+149900;Företag;Diesel;Automat;19520;2017;Sedan;Tvåhjulsdriven;191;Svart;1969;2016-10-03;Volvo;S60;Halland
+59900;Företag;Bensin;Manuell;18660;2007;Kombi;Tvåhjulsdriven;170;Svart;2435;2007-03-12;Volvo;V70;Halland
+144900;Företag;Diesel;Automat;22677;2012;Kombi;Fyrhjulsdriven;164;Blå;2400;2012-03-22;Volvo;XC70;Halland
+62900;Företag;Bensin;Automat;23200;2007;Sedan;Tvåhjulsdriven;238;Grå;3192;2007-02-15;Volvo;S80;Halland
+169900;Företag;Diesel;Automat;18500;2015;SUV;Tvåhjulsdriven;181;Svart;1969;2014-09-22;Volvo;XC60;Halland
+499000;Företag;Miljöbränsle/Hybrid;Automat;4178;2022;SUV;Fyrhjulsdriven;355;Svart;1969;2022-04-08;Volvo;XC60;Halland
+33000;Privat;Diesel;Manuell;43089;1979;Kombi;Tvåhjulsdriven;82;Grön;2383;1979-02-20;Volvo;245;Halland
+35000;Privat;Diesel;Manuell;30727;2010;Halvkombi;Tvåhjulsdriven;109;Svart;1560;2010-04-26;Volvo;C30;Halland
+169900;Företag;Diesel;Automat;16646;2018;Kombi;Tvåhjulsdriven;151;Blå;1969;2017-10-31;Volvo;V60;Halland
+24500;Företag;Bensin;Manuell;21690;2004;Sedan;Tvåhjulsdriven;141;Ljusgrå;2435;2004-06-16;Volvo;S80;Halland
+559900;Företag;El;Automat;0;2025;SUV;Fyrhjulsdriven;434;Ljusblå;NA;NA;Volvo;EX30;Halland
+15900;Företag;Bensin;Manuell;29400;2003;Kombi;Tvåhjulsdriven;200;Ljusgrå;1948;2002-09-23;Volvo;V40;Halland
+349000;Företag;El;Automat;5498;2023;SUV;Tvåhjulsdriven;234;Grå;NA;2023-03-31;Volvo;C40;Halland
+289800;Företag;Bensin;Automat;5127;2020;Sedan;Tvåhjulsdriven;191;Svart;1969;2020-01-27;Volvo;S60;Halland
+169800;Företag;Bensin;Automat;19026;2013;Kombi;Fyrhjulsdriven;330;Svart;2953;2012-08-10;Volvo;V60;Halland
+94800;Företag;Diesel;Manuell;22810;2014;Halvkombi;Tvåhjulsdriven;116;Grå;1560;2013-12-02;Volvo;V40;Halland
+99900;Företag;Bensin;Automat;20700;2013;Kombi;Tvåhjulsdriven;180;Svart;1596;2012-10-11;Volvo;V70;Halland
+114900;Företag;Diesel;Manuell;11528;2014;Halvkombi;Tvåhjulsdriven;116;Svart;1560;2013-12-13;Volvo;V40;Halland
+43500;Privat;Diesel;Manuell;32945;2008;Kombi;Tvåhjulsdriven;164;Svart;2400;2008-06-16;Volvo;V70;Halland
+419000;Företag;Miljöbränsle/Hybrid;Automat;3815;2023;SUV;Tvåhjulsdriven;266;Ljusgrå;1477;2023-05-16;Volvo;XC40;Halland
+449000;Företag;Diesel;Automat;12289;2019;SUV;Tvåhjulsdriven;238;Svart;1969;2019-05-03;Volvo;XC90;Halland
+239900;Företag;Diesel;Automat;16043;2017;SUV;Fyrhjulsdriven;191;Vit;2400;2017-01-03;Volvo;XC60;Halland
+299900;Företag;Bensin;Automat;9584;2021;SUV;Tvåhjulsdriven;198;Silver;1969;2021-06-10;Volvo;XC40;Halland
+279000;Privat;Miljöbränsle/Hybrid;Automat;14962;2020;Kombi;Fyrhjulsdriven;340;Vit;1969;2020-06-12;Volvo;V60;Halland
+80000;Privat;Diesel;Automat;28354;2011;Kombi;Tvåhjulsdriven;206;Vit;2400;2010-10-18;Volvo;V70;Halland
+73000;Privat;Diesel;Automat;31174;2013;Kombi;Tvåhjulsdriven;116;Svart;1560;2012-09-21;Volvo;V60;Halland
+309000;Privat;Diesel;Automat;11219;2018;Kombi;Fyrhjulsdriven;191;Grå;1969;2018-02-05;Volvo;V90 Cross Country;Halland
+14000;Privat;Bensin;Manuell;32661;2007;Sedan;Tvåhjulsdriven;101;Blå;1596;2006-10-25;Volvo;S40;Halland
+164500;Företag;Diesel;Automat;15400;2012;SUV;Fyrhjulsdriven;164;Blå;2400;2011-12-06;Volvo;XC60;Halland
+24000;Privat;Bensin;Automat;28073;2005;Kombi;Tvåhjulsdriven;141;Röd;2435;2005-02-07;Volvo;V50;Halland
+329900;Företag;Diesel;Automat;8085;2019;Kombi;Fyrhjulsdriven;200;Mörkblå;1969;2019-07-15;Volvo;V90;Halland
+349000;Företag;El;Automat;5850;2023;SUV;Tvåhjulsdriven;232;Svart;NA;2022-12-13;Volvo;C40;Halland
+249000;Företag;Diesel;Automat;9170;2017;Kombi;Fyrhjulsdriven;150;Ljusbrun;1969;2017-04-28;Volvo;V90;Halland
+289000;Företag;Diesel;Automat;6200;2019;Kombi;Tvåhjulsdriven;191;Mörkblå;1969;2019-08-05;Volvo;V60;Halland
+279900;Företag;Diesel;Automat;13321;2018;Kombi;Fyrhjulsdriven;191;Silver;1969;2017-06-07;Volvo;V90;Halland
+424900;Företag;Bensin;Automat;4137;2020;SUV;Fyrhjulsdriven;251;Grå;1969;2019-06-05;Volvo;XC60;Halland
+184800;Företag;Diesel;Automat;15387;2017;SUV;Tvåhjulsdriven;150;Grå;1969;2016-09-13;Volvo;XC60;Halland
+299800;Företag;Diesel;Automat;14731;2018;Kombi;Fyrhjulsdriven;191;Svart;1969;2017-07-06;Volvo;V90 Cross Country;Halland
+254800;Företag;Bensin;Manuell;6736;2019;SUV;Tvåhjulsdriven;157;Silver;1477;2019-08-26;Volvo;XC40;Halland
+134800;Företag;Bensin;Manuell;18121;2017;Halvkombi;Tvåhjulsdriven;123;Vit;1969;2016-11-08;Volvo;V40;Halland
+29900;Företag;Bensin;Manuell;24500;2001;Kombi;Tvåhjulsdriven;170;Ljusgrå;NA;2000-11-07;Volvo;V70;Halland
+369900;Företag;El;Automat;5300;2022;SUV;Tvåhjulsdriven;234;Vit;NA;2022-04-01;Volvo;XC40;Halland
+279900;Företag;Bensin;Automat;8367;2020;Kombi;Tvåhjulsdriven;192;Grå;1969;2020-04-14;Volvo;V60;Halland
+109900;Företag;Diesel;Manuell;17906;2013;Halvkombi;Tvåhjulsdriven;150;Svart;1984;2012-11-22;Volvo;V40;Halland
+29900;Företag;Bensin;Manuell;29999;2010;Sedan;Tvåhjulsdriven;109;Grå;1560;2010-06-16;Volvo;S40;Halland
+84900;Företag;Diesel;Automat;25637;2012;Kombi;Tvåhjulsdriven;116;Silver;1560;2012-04-19;Volvo;V60;Halland
+95000;Privat;Diesel;Manuell;17579;2012;Kombi;Tvåhjulsdriven;116;Grå;1560;2012-01-31;Volvo;V70;Halland
+249900;Företag;Diesel;Automat;16846;2017;Kombi;Tvåhjulsdriven;150;Svart;1969;2017-03-31;Volvo;V90;Halland
+89900;Företag;Diesel;Automat;20053;2008;Kombi;Tvåhjulsdriven;185;Grå;2400;2007-07-05;Volvo;V70;Halland
+432500;Företag;Diesel;Automat;8143;2022;SUV;Fyrhjulsdriven;200;Silver;1969;2021-11-10;Volvo;XC6;Halland
+84000;Privat;Bensin;Automat;21380;2008;Cab;Tvåhjulsdriven;170;Svart;2435;2008-01-18;Volvo;C70;Gävleborg
+309000;Företag;Miljöbränsle/Hybrid;Automat;10440;2020;Kombi;Fyrhjulsdriven;340;Vit;1969;2020-08-31;Volvo;V60;Gävleborg
+289000;Företag;Diesel;Automat;12693;2019;SUV;Fyrhjulsdriven;150;Vit;1969;2018-10-16;Volvo;XC40;Gävleborg
+32000;Privat;Bensin;Manuell;27036;2007;Sedan;Tvåhjulsdriven;141;Grå;2435;2008-06-10;Volvo;S60;Gävleborg
+329900;Företag;Diesel;Automat;16787;2016;SUV;Fyrhjulsdriven;225;Brun;1969;2015-12-30;Volvo;XC90;Gävleborg
+259900;Företag;Diesel;Automat;7972;2017;Sedan;Tvåhjulsdriven;150;Vit;1969;2017-02-08;Volvo;S90;Gävleborg
+139950;Företag;Diesel;Automat;17701;2014;Kombi;Tvåhjulsdriven;181;Svart;1969;2014-01-17;Volvo;V60;Gävleborg
+75000;Privat;Diesel;Manuell;13060;2012;Kombi;Tvåhjulsdriven;116;Blå;1560;2012-06-21;Volvo;V50;Gävleborg
+154900;Företag;Diesel;Automat;21900;2014;Kombi;Fyrhjulsdriven;181;Vit;2400;2013-11-29;Volvo;V60;Gävleborg
+349800;Företag;Bensin;Automat;3665;2024;SUV;Tvåhjulsdriven;200;Vit;1969;2023-12-21;Volvo;XC40;Gävleborg
+94900;Företag;Diesel;Manuell;21969;2012;Kombi;Tvåhjulsdriven;116;Vit;1560;2011-06-13;Volvo;V70;Gävleborg
+399800;Företag;Miljöbränsle/Hybrid;Automat;3199;2022;SUV;Tvåhjulsdriven;214;Grå;1477;2022-02-16;Volvo;XC40;Gävleborg
+369800;Företag;El;Automat;8543;2022;SUV;Fyrhjulsdriven;414;Silver;NA;2022-04-28;Volvo;C40;Gävleborg
+246000;Privat;Bensin;Manuell;4850;2020;SUV;Tvåhjulsdriven;164;Grå;1477;2019-07-03;Volvo;XC40;Gävleborg
+89900;Företag;Diesel;Manuell;19020;2013;Kombi;Tvåhjulsdriven;116;Svart;1560;2012-11-29;Volvo;V60;Gävleborg
+699000;Företag;Miljöbränsle/Hybrid;Automat;8715;2023;SUV;Fyrhjulsdriven;456;Svart;1969;2023-01-24;Volvo;XC90;Gävleborg
+439800;Företag;Miljöbränsle/Hybrid;Automat;4549;2023;Kombi;Fyrhjulsdriven;355;Grå;1969;2022-12-29;Volvo;V90;Gävleborg
+469500;Företag;Miljöbränsle/Hybrid;Automat;4345;2023;SUV;Fyrhjulsdriven;355;Silver;1969;2023-03-31;Volvo;XC60;Gävleborg
+389000;Företag;Diesel;Automat;4657;2023;Kombi;Fyrhjulsdriven;198;Ljusgrå;1969;2022-09-15;Volvo;V60 Cross Country;Gävleborg
+49900;Företag;Diesel;Manuell;35600;2011;Kombi;Tvåhjulsdriven;109;Svart;1560;2010-09-30;Volvo;V70;Gävleborg
+309000;Företag;Miljöbränsle/Hybrid;Automat;11265;2021;Kombi;Fyrhjulsdriven;340;Svart;1969;2021-03-26;Volvo;V60;Gävleborg
+169000;Företag;Diesel;Automat;18750;2014;SUV;Fyrhjulsdriven;184;Svart;2400;2014-06-02;Volvo;XC60;Gävleborg
+189000;Företag;Diesel;Automat;6185;2016;Halvkombi;Tvåhjulsdriven;151;Svart;1969;2016-02-19;Volvo;V40;Gävleborg
+52000;Privat;Diesel;Automat;46024;2010;Kombi;Tvåhjulsdriven;176;Svart;2400;2010-07-01;Volvo;V70;Gävleborg
+178900;Företag;Diesel;Automat;22380;2014;Kombi;Fyrhjulsdriven;164;Vit;2400;2014-02-17;Volvo;XC70;Gävleborg
+389000;Företag;Miljöbränsle/Hybrid;Automat;13791;2022;SUV;Fyrhjulsdriven;340;Grå;1969;2021-12-09;Volvo;XC60;Gävleborg
+364800;Företag;Diesel;Automat;6772;2021;SUV;Fyrhjulsdriven;200;Vit;1969;2020-10-05;Volvo;XC60;Gävleborg
+279000;Företag;Miljöbränsle/Hybrid;Automat;16950;2022;Kombi;Fyrhjulsdriven;340;Svart;1969;2021-09-17;Volvo;V60;Gävleborg
+300000;Privat;Diesel;Automat;14300;2019;Kombi;Tvåhjulsdriven;200;Grå;1969;2019-06-14;Volvo;V60;Gävleborg
+330900;Företag;Miljöbränsle/Hybrid;Automat;16205;2019;SUV;Fyrhjulsdriven;392;Svart;1969;2018-06-08;Volvo;XC60;Gävleborg
+294900;Företag;Bensin;Automat;11045;2017;Kombi;Tvåhjulsdriven;255;Silver;1969;2016-09-27;Volvo;V90;Gävleborg
+359950;Företag;Miljöbränsle/Hybrid;Automat;10367;2022;Kombi;Fyrhjulsdriven;350;Vit;1969;2022-02-21;Volvo;V90;Gävleborg
+178900;Företag;Diesel;Automat;26622;2014;SUV;Fyrhjulsdriven;215;Röd;2400;2013-10-03;Volvo;XC60;Gävleborg
+519500;Företag;Miljöbränsle/Hybrid;Automat;5520;2023;SUV;Fyrhjulsdriven;355;Svart;1969;2023-08-22;Volvo;XC60;Gävleborg
+309000;Företag;Miljöbränsle/Hybrid;Automat;11265;2021;Kombi;Fyrhjulsdriven;340;Svart;1969;2021-03-26;Volvo;V60;Gävleborg
+229000;Företag;Diesel;Automat;13453;2019;Kombi;Tvåhjulsdriven;191;Vit;1969;2018-06-28;Volvo;V90;Gävleborg
+318900;Företag;Diesel;Automat;15400;2021;SUV;Fyrhjulsdriven;198;Silver;1969;2020-09-22;Volvo;XC60;Gävleborg
+108000;Företag;Diesel;Automat;19949;2013;Halvkombi;Tvåhjulsdriven;177;Svart;1984;2012-12-07;Volvo;V40;Gävleborg
+24000;Privat;Bensin;Manuell;26341;2004;Sedan;Tvåhjulsdriven;141;Grön;2435;2004-04-06;Volvo;S40;Gävleborg
+199000;Företag;Diesel;Automat;27000;2017;Kombi;Fyrhjulsdriven;191;Brun;1969;2017-03-21;Volvo;V90;Gävleborg
+120000;Privat;Diesel;Automat;20191;2014;Kombi;Tvåhjulsdriven;116;Svart;1560;2014-05-23;Volvo;V70;Gävleborg
+54900;Företag;Diesel;Automat;44800;2009;Kombi;Fyrhjulsdriven;185;Vit;2400;2008-10-22;Volvo;XC70;Gävleborg
+99900;Företag;Diesel;Manuell;22667;2014;Halvkombi;Tvåhjulsdriven;150;Röd;1984;2014-05-14;Volvo;V40 Cross Country;Gävleborg
+359000;Företag;Miljöbränsle/Hybrid;Automat;12733;2023;Kombi;Fyrhjulsdriven;350;Svart;1969;2022-12-02;Volvo;V60;Gävleborg
+259000;Företag;Diesel;Automat;19155;2019;Kombi;Fyrhjulsdriven;191;Mörkblå;1969;2018-06-28;Volvo;V90 Cross Country;Gävleborg
+199000;Privat;Diesel;Automat;35052;2020;Kombi;Fyrhjulsdriven;200;Svart;1969;2020-01-14;Volvo;V90 Cross Country;Gävleborg
+399900;Företag;Miljöbränsle/Hybrid;Automat;13964;2022;SUV;Fyrhjulsdriven;350;Svart;1969;2022-03-01;Volvo;XC60;Gävleborg
+238900;Företag;Diesel;Automat;14067;2018;Sedan;Tvåhjulsdriven;150;Grå;1969;2018-04-17;Volvo;S90;Gävleborg
+100000;Privat;Diesel;Automat;32239;2015;Kombi;Fyrhjulsdriven;181;Svart;2400;2015-02-06;Volvo;V70;Gävleborg
+26000;Privat;Bensin;Manuell;30500;2004;Kombi;Fyrhjulsdriven;210;Röd;2521;2003-06-19;Volvo;V70;Gävleborg
+319900;Företag;Bensin;Automat;10400;2020;Kombi;Tvåhjulsdriven  ;191;Svart;1969;2020-06-25;Volvo;V90;Stockholm
+294900;Företag;Diesel;Automat;19084;2020;SUV;Fyrhjulsdriven;236;Vit;1969;2019-08-15;Volvo;XC60;Stockholm
+166800;Företag;Diesel;Automat;12816;2014;Halvkombi;Tvåhjulsdriven  ;177;Röd;1984;2014-01-10;Volvo;V40 Cross Country;Stockholm
+384900;Företag;Miljöbränsle/Hybrid;Automat;6374;2021;Kombi;Fyrhjulsdriven;342;Svart;1969;2020-12-15;Volvo;V60;Stockholm
+14500;Privat;Bensin;Manuell;35473;2004;Sedan;Tvåhjulsdriven  ;141;Grön;2435;2004-04-05;Volvo;S40;Stockholm
+49000;Företag;Diesel;Manuell;14501;2006;Kombi;Tvåhjulsdriven  ;136;Blå;1997;2006-05-15;Volvo;V50;Stockholm
+299900;Företag;Miljöbränsle/Hybrid;Automat;16000;2020;SUV;Fyrhjulsdriven;392;Vit;1969;2020-06-30;Volvo;XC60;Stockholm
+289900;Företag;Diesel;Automat;12230;2020;Kombi;Fyrhjulsdriven;191;Grå;1969;2019-10-04;Volvo;V60 Cross Country;Stockholm
+369800;Företag;Diesel;Automat;5431;2022;Kombi;Fyrhjulsdriven;198;Grå;1969;2021-12-22;Volvo;V90;Stockholm
+126000;Företag;Diesel;Automat;17261;2015;SUV;Fyrhjulsdriven;136;Svart;1984;2019-05-09;Volvo;XC60;Stockholm
+449800;Företag;Hybrid;Automat;5013;2022;Sedan;Tvåhjulsdriven  ;406;svart;1969;2022-11-03;Volvo;S60;Stockholm
+109900;Företag;Bensin;Automat;12029;2012;Sedan;Tvåhjulsdriven  ;150;Ljusbrun;1596;2012-09-05;Volvo;S60;Stockholm
+164900;Företag;Diesel;Automat;12492;2014;Kombi;Tvåhjulsdriven  ;181;Svart;1969;2014-05-23;Volvo;V60;Stockholm
+158900;Företag;Diesel;Automat;11516;2017;Kombi;Tvåhjulsdriven  ;120;Grå;1969;2017-01-30;Volvo;V40;Stockholm
+94900;Företag;Diesel;Manuell;13661;2012;Kombi;Tvåhjulsdriven  ;116;Svart;1560;2012-04-26;Volvo;V50;Stockholm
+86500;Företag;Diesel;Automat;29942;2014;Halvkombi;Tvåhjulsdriven  ;116;Brun;1560;2013-12-30;Volvo;V40;Stockholm
+169900;Företag;Diesel;Automat;21804;2016;SUV;Fyrhjulsdriven;192;svart;2400;2015-12-15;Volvo;XC60;Stockholm
+179900;Företag;Hybrid;Automat;14165;2018;Kombi;Tvåhjulsdriven  ;245;vit;1969;2018-04-20;Volvo;V60 ;Stockholm
+389900;Företag;Hybrid;Automat;12209;2022;SUV;Fyrhjulsdriven;350;Svart;1969;2022-02-08;Volvo;XC60;Stockholm
+204900;Företag;Diesel;Automat;16002;2016;SUV;Fyrhjulsdriven;191;Blå;2400;2015-08-06;Volvo;XC60;Stockholm
+179900;Företag;Bensin;Manuell;8905;2015;Kombi;Tvåhjulsdriven  ;180;Ljusbrun;1596;2014-10-30;Volvo;V70;Stockholm
+639900;Företag;Hybrid;Automat;4785;2024;SUV;Fyrhjulsdriven;463;Grå;1969;2023-09-29;Volvo;XC60;Stockholm
+464900;Företag;El;Automat;3507;2024;SUV;Tvåhjulsdriven  ;256;Silver;1969;2023-12-12;Volvo;XC40;Stockholm
+399900;Företag;Hybrid;Automat;4326;2023;SUV;Tvåhjulsdriven  ;266;Grå;1477;2023-08-06;Volvo;XC40;Stockholm
+364900;Företag;Diesel;Automat;9031;2020;Kombi;Fyrhjulsdriven;150;Vit;1969;2020-02-19;Volvo;V60 ;Stockholm
+179900;Företag;Diesel;Automat;18900;2015;SUV;Fyrhjulsdriven;181;Silver;2400;2014-12-22;Volvo;XC60;Stockholm
+359900;Företag;Diesel;Automat;5700;2023;Kombi;Fyrhjulsdriven;198;Blå;1969;2023-12-04;Volvo;V60 ;Stockholm
+464900;Företag;El;Automat;3507;2024;SUV;Tvåhjulsdriven  ;256;Silver;1969;2023-12-12;Volvo;XC40;Stockholm
+278900;Företag;Diesel;Automat;9862;2020;Kombi;Fyrhjulsdriven;191;Svart;1969;2020-03-08;Volvo;V60;Stockholm
+699900;Företag;Diesel;Automat;2602;2024;SUV;Fyrhjulsdriven;238;Grå;1969;2023-07-20;Volvo;XC90;Stockholm
+19000;Privat;Bensin;Automat;267910;2001;Kombi;Tvåhjulsdriven  ;165;Grå;1948;2000-07-17;Volvo;V40 ;Stockholm
+75000;Privat;Bensin;Automat;19978;2010;Kombi;Fyrhjulsdriven;230;Röd;1521;2009-08-27;Volvo;V50;Stockholm
+119900;Företag;Bensin;Automat;22100;2012;SUV;Tvåhjulsdriven  ;240;Brun;1999;2011-08-11;Volvo;XC60;Stockholm
+245800;Företag;Diesel;Automat;8563;2017;SUV;Fyrhjulsdriven;191;Silver;2400;2017-08-11;Volvo;XC60;Stockholm
+344900;Företag;Diesel;Automat;9329;2020;Kombi;Fyrhjulsdriven;191;vit;1969;2019-12-25;Volvo;V90 Cross Country;Stockholm
+439900;Företag;El;Automat;2594;2024;SUV;Tvåhjulsdriven  ;256;Blå;1969;2023-11-23;Volvo;XC40;Stockholm
+27900;Privat;Bensin;Manuell;26000;2004;Kombi;Tvåhjulsdriven  ;170;Silver;1969;2023-11-23;Volvo;V70;Stockholm
+499900;Företag;Miljöbränsle/Hybrid;Automat;5828;2022;SUV;Fyrhjulsdriven;350;Svart;1969;2022-03-31;Volvo;XC60;Stockholm
+274900;Företag;Miljöbränsle/Hybrid;Automat;12513;2021;Kombi;Fyrhjulsdriven;344;Röd;1969;2021-03-02;Volvo;V60;Stockholm
+1039000;Företag;Miljöbränsle/Hybrid;Automat;00 000;2025;SUV;Fyrhjulsdriven;463;Blå;1969;2023-11-23;Volvo;XC90;Stockholm
+169900;Företag;Diesel;Manuell;12316;2015;Kombi;Tvåhjulsdriven  ;181;Blå;1969;2015-04-29;Volvo;V60;Stockholm
+897900;Företag;Miljöbränsle/Hybrid;Automat;00 000;2025;SUV;Fyrhjulsdriven;461;Svart;1969;2021-03-02;Volvo;XC90;Stockholm
+359700;Företag;El;Automat;3837;2023;SUV;Tvåhjulsdriven  ;232;Svart;1969;2022-10-21;Volvo;C40;Stockholm
+179900;Företag;Bensin;Manuell;8905;2015;Kombi;Tvåhjulsdriven  ;180;Ljusbrun;1969;2014-10-30;Volvo;V70;Stockholm
+204900;Företag;Diesel;Automat;16002;2016;SUV;Fyrhjulsdriven;191;Blå;2400;2015-08-06;Volvo;XC60;Stockholm
+359700;Företag;Miljöbränsle/Hybrid;Automat;11870;2022;Kombi;Fyrhjulsdriven;350;Svart;1969;2022-02-22;Volvo;V90;Stockholm
+1142900;Företag;El;Automat;0;2025;SUV;Fyrhjulsdriven;414;Grå;1969;2024-08-13;Volvo;EX90;Stockholm
+269900;Företag;Bensin;Manuell;2209;2021;SUV;Tvåhjulsdriven  ;131;Svart;1477;2021-02-15;Volvo;XC40;Stockholm
+599900;Företag;Miljöbränsle/Hybrid;Automat;2482;2025;SUV;Fyrhjulsdriven;355;Vit;1969;2024-08-13;Volvo;XC60;Stockholm
+309000;Företag;Bensin;Manuell;NA;1967;Sedan;Tvåhjulsdriven  ;97;Röd;1969;1967-02-17;Volvo;S90;Stockholm
+154900;Företag;Bensin;Manuell;21408;2016;Kombi;Tvåhjulsdriven;191;Silver;1969;2015-12-01;Volvo;V70;Göteborg
+169900;Företag;Diesel;Automat;9340;2015;Kombi;Tvåhjulsdriven;116;Vit;1560;2014-12-03;Volvo;V40 Cross Country;Göteborg
+398700;Företag;Miljöbränsle/Hybrid;Automat;6570;2022;Kombi;Fyrhjulsdriven;253;Mörkblå;1969;2022-05-05;Volvo;V60;Göteborg
+287800;Företag;Diesel;Automat;9950;2020;Kombi;Tvåhjulsdriven;191;Svart;1969;2020-04-01;Volvo;V90;Göteborg
+268800;Företag;Miljöbränsle/Hybrid;Automat;17001;2021;Kombi;Fyrhjulsdriven;198;Svart;1969;2021-02-25;Volvo;V60 Cross Country;Göteborg
+245000;Företag;Diesel;Automat;12001;2017;SUV;Fyrhjulsdriven;221;Röd;2400;2017-06-30;Volvo;XC60;Göteborg
+69000;Privat;Diesel;Manuell;30900;2012;Kombi;Tvåhjulsdriven;116;Svart;1560;2011-07-13;Volvo;V60;Göteborg
+114900;Företag;Diesel;Manuell;15811;2013;Halvkombi;Tvåhjulsdriven;116;ljusgrå;1560;2013-02-22;Volvo;V40;Göteborg
+419900;Företag;Miljöbränsle/Hybrid;Automat;15200;2018;SUV;Fyrhjulsdriven;407;Mörkbrun;1969;2017-11-06;Volvo;XC90;Göteborg
+164900;Företag;Diesel;Automat;17196;2016;Kombi;Tvåhjulsdriven;181;Svart;1969;2015-12-30;Volvo;V70;Göteborg
+174900;Företag;Diesel;Automat;13232;2017;Halvkombi;Tvåhjulsdriven;150;Ljusbrun;1969;2016-12-29;Volvo;V40 Cross Country;Göteborg
+129900;Företag;Diesel;Manuell;27563;2015;Kombi;Fyrhjulsdriven;181;Svart;2400;2014-06-25;Volvo;XC70;Göteborg
+444900;Företag;Miljöbränsle/Hybrid;Automat;6882;2021;SUV;Fyrhjulsdriven;340;Svart;1969;2020-12-18;Volvo;XC60;Göteborg
+329900;Företag;Diesel;Automat;11999;2020;Kombi;Fyrhjulsdriven;198;Svart;1969;2020-04-09;Volvo;XC60;Göteborg
+129900;Företag;Bensin;Manuell;13561;2015;Halvkombi;Tvåhjulsdriven;150;Grå;1596;2014-11-26;Volvo;V40;Göteborg
+124900;Företag;Diesel;Automat;21325;2014;Kombi;Tvåhjulsdriven;136;Svart;1984;2014-03-26;Volvo;V70;Göteborg
+134900;Företag;Diesel;Automat;6246;2012;Kombi;Tvåhjulsdriven;150;Röd;1984;2011-09-08;Volvo;V50;Göteborg
+189900;Företag;Diesel;Automat;19260;2017;SUV;Fyrhjulsdriven;221;Vit;2400;2016-11-08;Volvo;XC60;Göteborg
+120000;Företag;Diesel;Manuell;15519;2016;Halvkombi;Tvåhjulsdriven;120;Vit;1969;2015-12-29;Volvo;V40;Göteborg
+65000;Företag;Diesel;Manuell;32000;2011;Kombi;Tvåhjulsdriven;164;Svart;1984;2011-04-15;Volvo;V70;Göteborg
+344000;Företag;Diesel;Automat;8652;2021;Kombi;Fyrhjulsdriven;240;Mörkblå;1969;2021-02-12;Volvo;V60 Cross Country;Göteborg
+329900;Företag;Diesel;Automat;15177;2018;SUV;Fyrhjulsdriven;191;Svart;1969;2018-01-12;Volvo;XC60;Göteborg
+25000;Företag;Bensin;Manuell;31061;2007;Kombi;Tvåhjulsdriven;170;Svart;2435;2006-12-01;Volvo;V70;Göteborg
+74000;Privat;Diesel;Automat;27540;2007;Kombi;Fyrhjulsdriven;185;Blå;2435;2006-11-01;Volvo;XC70;Göteborg
+409900;Företag;Bensin;Automat;5512;2023;SUV;Fyrhjulsdriven;253;Mörkblå;1969;2022-06-10;Volvo;XC60;Göteborg
+419000;Företag;Bensin;Automat;9728;2018;SUV;Fyrhjulsdriven;257;Silver;1969;2017-11-22;Volvo;XC90;Göteborg
+179000;Företag;Bensin;Automat;14249;2017;Halvkombi;Tvåhjulsdriven;153;Mörkblå;1498;2016-06-20;Volvo;V40;Göteborg
+20000;Privat;Bensin;Manuell;22460;2000;Kombi;Tvåhjulsdriven;170;Grå;2453;2000-04-11;Volvo;V70;Göteborg
+174800;Företag;Diesel;Manuell;18800;2018;Kombi;Tvåhjulsdriven;200;Svart;1969;2017-11-22;Volvo;V60;Göteborg
+429900;Företag;Bensin;Automat;3377;2023;Sedan;Tvåhjulsdriven;253;Grå;1969;2023-07-18;Volvo;S60;Göteborg
+339900;Företag;Miljöbränsle/Hybrid;Automat;12359;2018;Sedan;Fyrhjulsdriven;412;Blå;1969;2018-03-26;Volvo;S90;Göteborg
+599900;Företag;Miljöbränsle/Hybrid;Automat;3117;2023;Kombi;Fyrhjulsdriven;463;Vit;1969;2023-08-31;Volvo;V90;Göteborg
+429900;Företag;El;Automat;2 15;2024;SUV;Tvåhjulsdriven;241;Grå;NA;2024-02-06;Volvo;XC40;Göteborg
+459900;Företag;Miljöbränsle/Hybrid;Automat;1713;2024;Kombi;Fyrhjulsdriven;355;Svart;1969;2023-12-21;Volvo;V90;Göteborg
+459900;Företag;Miljöbränsle/Hybrid;Automat;1672;2024;Kombi;Fyrhjulsdriven;355;Vit;1969;2023-12-21;Volvo;V90;Göteborg
+339900;Företag;Diesel;Automat;9262;2022;Kombi;Fyrhjulsdriven;198;Vit;1969;2022-02-11;Volvo;V60 Cross Country;Göteborg
+339900;Företag;Miljöbränsle/Hybrid;Automat;9828;2021;Sedan ;Fyrhjulsdriven;398;Svart;1969;2020-10-28;Volvo;S60;Göteborg
+469900;Företag;Miljöbränsle/Hybrid;Automat;7900;2023;SUV;Fyrhjulsdriven;355;Grå;1969;2023-04-27;Volvo;XC60;Göteborg
+91000;Företag;Diesel;Automat;23631;2013;Kombi;Tvåhjulsdriven;116;Svart;1560;2012-09-26;Volvo;V60 ;Göteborg
+199900;Företag;Diesel;Automat;11324;2018;Sedan ;Tvåhjulsdriven;150;Vit;1969;2018-06-25;Volvo;S60;Göteborg
+319900;Företag;Diesel;Automat;8166;2021;Kombi;Fyrhjulsdriven;344;Svart;1969;2021-02-17;Volvo;V60 ;Göteborg
+364900;Företag;Miljöbränsle/Hybrid;Automat;4642;2020;SUV;Tvåhjulsdriven;266;Mörkblå;1447;2020-06-12;Volvo;XC40;Göteborg
+124900;Företag;Diesel;Automat;22399;2013;SUV;Tvåhjulsdriven;164;Röd;2400;2012-10-05;Volvo;XC90;Göteborg
+629900;Företag;Diesel;Automat;7659;2022;SUV;Fyrhjulsdriven;236;Silver;1969;2022-06-21;Volvo;XC60;Göteborg
+39000;Företag;Diesel;Automat;44546;2011;Kombi;Tvåhjulsdriven;164;Svart;1984;2010-08-30;Volvo;V70;Göteborg
+849000;Företag;Miljöbränsle/Hybrid;Automat;1847;2024;SUV;Fyrhjulsdriven;456;Grå;1969;2024-03-12;Volvo;XC90;Göteborg
+209900;Företag;Diesel;Automat;13831;2018;Kombi;Tvåhjulsdriven;191;Silver;1969;2017-09-13;Volvo;V60;Göteborg
+260000;Företag;Diesel;Automat;13340;2019;Kombi;Tvåhjulsdriven;150;Grå;1969;2019-04-15;Volvo;V60 ;Göteborg
+359000;Företag;Diesel;Automat;11744;2021;Kombi;Fyrhjulsdriven;340;Svart;1969;2020-10-16;Volvo;XC60;Göteborg
+249900;Företag;Bensin;Automat;10581;2019;Kombi;Tvåhjulsdriven;192;Grå;1969;2018-12-20;Volvo;V90;Göteborg
+25000;Privat;Bensin;Manuell;52600;1981;Sedan;Tvåhjulsdriven;112;Brun;2316;1981-05-08;Volvo;244;Västerbotten
+25000;Privat;Bensin;Manuell;24529;1984;Sedan;Tvåhjulsdriven;107;Gul;2127;1983-08-24;Volvo;244;Västerbotten
+105000;Privat;Diesel;Automat;25399;2012;SUV;Tvåhjulsdriven;164;Vit;1984;2012-02-01;Volvo;XC60;Västerbotten
+18900;Företag;Bensin;Manuell;32000;1998;Kombi;Fyrhjulsdriven;194;Mörkblå;NA;1997-12-19;Volvo;XC70;Västerbotten
+539000;Företag;Miljöbränsle/Hybrid;Automat;4400;2023;SUV;Fyrhjulsdriven;355;Ljusgrå;1969;2023-05-15;Volvo;XC60;Västerbotten
+519000;Företag;Bensin;Automat;2932;2024;SUV;Fyrhjulsdriven;253;Grå;1969;2023-11-28;Volvo;V90 Cross Country;Västerbotten
+489000;Företag;Miljöbränsle/Hybrid;Automat;4370;2022;SUV;Fyrhjulsdriven;355;Silver;1969;2021-12-29;Volvo;XC60;Västerbotten
+539900;Företag;Miljöbränsle/Hybrid;Automat;4068;2023;SUV;Fyrhjulsdriven;355;Ljusgrå;1969;2023-05-15;Volvo;XC60;Västerbotten
+44900;Företag;Miljöbränsle/Hybrid;Manuell;20800;2009;Kombi;Tvåhjulsdriven;126;Svart;1798;2008-11-06;Volvo;V50;Västerbotten
+69900;Företag;Diesel;Manuell;21500;2011;Sedan;Tvåhjulsdriven;164;Svart;1984;2010-08-24;Volvo;S60;Västerbotten
+45900;Företag;Miljöbränsle/Hybrid;Automat;33800;2009;Kombi;Tvåhjulsdriven;200;Grå;2521;2008-10-06;Volvo;V70;Västerbotten
+239000;Privat;Diesel;Automat;10250;2019;Kombi;Tvåhjulsdriven;150;Svart;1969;2018-07-19;Volvo;V90;Västerbotten
+779000;Företag;Miljöbränsle/Hybrid;Automat;2970;2024;SUV;Fyrhjulsdriven;463;Svart;1969;2024-04-03;Volvo;XC90;Västerbotten
+279900;Företag;Diesel;Automat;10081;2019;SUV;Tvåhjulsdriven;150;Svart;1969;2018-11-27;Volvo;XC40;Västerbotten
+369900;Företag;Miljöbränsle/Hybrid;Automat;12141;2018;SUV;Fyrhjulsdriven;408;Silver;1969;2018-03-28;Volvo;XC60;Västerbotten
+50000;Privat;Diesel;Manuell;22476;2005;Kombi;Tvåhjulsdriven;164;Röd;2401;2004-10-29;Volvo;V70;Västerbotten
+28000;Privat;Diesel;Manuell;31355;2010;Sedan;Tvåhjulsdriven;109;Blå;1560;2009-12-18;Volvo;S40;Västerbotten
+25000;Privat;Bensin;Manuell;33000;1988;Sedan;Tvåhjulsdriven;116;Grå;2316;1987-10-13;Volvo;740;Västerbotten
+17500;Företag;Bensin;Manuell;37145;2006;Kombi;Tvåhjulsdriven;170;Röd;2435;2005-07-14;Volvo;V50;Västerbotten
+65000;Privat;Bensin;Manuell;46974;1990;Kombi;Tvåhjulsdriven;165;Grå;2316;1990-01-09;Volvo;740;Västerbotten
+37000;Privat;Bensin;Manuell;58089;1988;Kombi;Tvåhjulsdriven;131;Grå;2316;1988-01-26;Volvo;245;Västerbotten
+55000;Privat;Diesel;Manuell;21800;2008;Kombi;Tvåhjulsdriven;164;Svart;2400;2008-03-10;Volvo;V70;Västerbotten
+68900;Företag;Diesel;Manuell;32900;2008;Kombi;Fyrhjulsdriven;185;Röd;2400;2007-12-13;Volvo;V70;Västerbotten
+493900;Företag;Diesel;Automat;4025;2023;SUV;Fyrhjulsdriven;200;Mörkblå;1969;2023-05-15;Volvo;V90 Cross Country;Västerbotten
+42000;Privat;Bensin;Automat;24931;1972;Sedan;Tvåhjulsdriven;82;Röd;1990;1972-01-20;Volvo;142;Västerbotten
+69900;Företag;Bensin;Manuell;16550;2007;Sedan;Tvåhjulsdriven;141;Ljusgrå;2435;2007-05-04;Volvo;S60;Västerbotten
+309900;Företag;Bensin;Automat;16435;2019;Kombi;Fyrhjulsdriven;327;Mörkblå;1969;2018-05-21;Volvo;V90;Västerbotten
+339900;Företag;Diesel;Automat;12063;2021;SUV;Fyrhjulsdriven;198;Grå;1969;2020-09-22;Volvo;XC60;Västerbotten
+149900;Företag;Diesel;Automat;17490;2013;Sedan;Tvåhjulsdriven;215;Grå;2400;2012-07-10;Volvo;S80;Västerbotten
+75000;Privat;Bensin;Manuell;15875;1988;Sedan;Tvåhjulsdriven;116;Brun;2316;1988-02-17;Volvo;244;Västerbotten
+294900;Företag;Diesel;Automat;7495;2020;Kombi;Fyrhjulsdriven;192;Vit;1969;2019-12-20;Volvo;V60;Västerbotten
+55000;Privat;Bensin;Manuell;20400;1981;Sedan;Tvåhjulsdriven;107;Blå;2127;1980-12-16;Volvo;244;Västerbotten
+47000;Privat;Diesel;Manuell;18100;2010;Kombi;Tvåhjulsdriven;109;Röd;1560;2009-11-02;Volvo;V50;Västerbotten
+469900;Företag;Bensin;Automat;1973;2023;Kombi;Fyrhjulsdriven;251;Grå;1969;2022-12-20;Volvo;V60;Västerbotten
+90000;Privat;Diesel;Automat;28104;2015;Kombi;Fyrhjulsdriven;181;Röd;2400;2014-10-17;Volvo;V60;Västerbotten
+159000;Privat;Diesel;Automat;17623;2016;Kombi;Fyrhjulsdriven;191;Vit;2400;2015-06-25;Volvo;V60;Västerbotten
+78000;Privat;Diesel;Automat;25638;2011;Kombi;Tvåhjulsdriven;164;Röd;1984;2011-05-02;Volvo;V70;Västerbotten
+344800;Företag;Miljöbränsle/Hybrid;Automat;16238;2019;SUV;Fyrhjulsdriven;392;Svart;1969;2019-05-03;Volvo;XC60;Västerbotten
+329900;Företag;Diesel;Automat;10300;2018;SUV;Fyrhjulsdriven;191;Svart;1969;2017-10-23;Volvo;XC60;Västerbotten
+75000;Privat;Diesel;Automat;35761;2013;Kombi;Fyrhjulsdriven;164;Svart;2400;2013-03-21;Volvo;V70;Västerbotten
+94900;Företag;Diesel;Manuell;27000;2011;SUV;Fyrhjulsdriven;164;Vit;2400;2011-02-01;Volvo;XC60;Västerbotten
+27000;Privat;Bensin;Automat;30550;1999;Sedan;Tvåhjulsdriven;272;Röd;2738;1999-01-11;Volvo;S80;Västerbotten
+47000;Privat;Diesel;Automat;39143;2009;Kombi;Fyrhjulsdriven;185;Grå;2401;2008-12-02;Volvo;V70;Västerbotten
+184900;Företag;Diesel;Automat;19300;2017;SUV;Tvåhjulsdriven;191;Svart;1969;2017-10-02;Volvo;XC60;Västerbotten
+59900;Företag;Diesel;Manuell;22100;2011;Kombi;Tvåhjulsdriven;116;Vit;1560;2010-12-01;Volvo;V50;Västerbotten
+105000;Privat;Diesel;Manuell;21852;2010;SUV;Fyrhjulsdriven;206;Blå;2400;2009-11-20;Volvo;XC60;Västerbotten
+224500;Privat;Diesel;Automat;20597;2016;Kombi;Fyrhjulsdriven;181;Svart;2400;2015-11-06;Volvo;XC70;Västerbotten
+189900;Företag;Diesel;Automat;19200;2018;Kombi;Fyrhjulsdriven;191;Röd;2400;2018-04-12;Volvo;V60 Cross Country;Västerbotten
+115000;Privat;Diesel;Automat;20340;2013;Kombi;Fyrhjulsdriven;164;Svart;2400;2013-05-16;Volvo;V60;Västerbotten
+449900;Företag;Miljöbränsle/Hybrid;Automat;14035;2019;SUV;Fyrhjulsdriven;392;Svart;1969;2018-09-13;Volvo;XC90;Västerbotten
+289900;Företag;Miljöbränsle/Hybrid;Automat;19800;2021;SUV;Fyrhjulsdriven;340;Vit;1969;2021-01-29;Volvo;XC60;Norrbotten
+309900;Företag;Diesel;Automat;19245;2016;SUV;Fyrhjulsdriven;225;Vit;1969;2015-11-02;Volvo;XC90;Norrbotten
+199000;Privat;Diesel;Automat;15500;2020;Kombi;Fyrhjulsdriven;191;Vit;1969;2020-06-18;Volvo;V90;Norrbotten
+459900;Företag;Miljöbränsle/Hybrid;Automat;8240;2022;SUV;Fyrhjulsdriven;350;Silver;1969;2022-04-21;Volvo;XC60;Norrbotten
+219900;Företag;Diesel;Automat;18915;2014;SUV;Fyrhjulsdriven;181;Vit;2400;2014-04-07;Volvo;XC60;Norrbotten
+20000;Privat;Bensin;Manuell;45948;1997;Sedan;Tvåhjulsdriven;145;Blå;2435;1997-03-20;Volvo;S70;Norrbotten
+379000;Privat;Diesel;Automat;12900;2022;SUV;Fyrhjulsdriven;236;Svart;1969;2023-03-23;Volvo;XC60;Norrbotten
+69000;Privat;Diesel;Manuell;27668;2011;Kombi;Tvåhjulsdriven;109;Grå;1560;2010-12-22;Volvo;V70;Norrbotten
+98000;Privat;Diesel;Manuell;24600;2015;Kombi;Tvåhjulsdriven;136;Blå;1984;2014-11-28;Volvo;V60;Norrbotten
+15000;Privat;Bensin;Automat;22327;1996;Kombi;Tvåhjulsdriven;170;Blå;2435;1995-11-14;Volvo;850;Norrbotten
+289900;Företag;Diesel;Automat;10692;2015;Kombi;Fyrhjulsdriven;181;Svart;2400;2015-02-11;Volvo;XC70;Norrbotten
+140000;Privat;Diesel;Automat;21500;2008;Kombi;Fyrhjulsdriven;185;Grön;2401;2007-12-28;Volvo;XC70;Norrbotten
+349500;Privat;Diesel;Automat;7704;2020;Kombi;Fyrhjulsdriven;191;Grå;1969;2019-11-25;Volvo;V60 Cross Country;Norrbotten
+104900;Företag;Diesel;Manuell;17149;2010;Kombi;Tvåhjulsdriven;136;Vit;1997;2010-03-31;Volvo;V50;Norrbotten
+135000;Privat;Diesel;Automat;20400;2013;Kombi;Fyrhjulsdriven;164;Svart;2400;2013-03-15;Volvo;V70;Norrbotten
+80000;Privat;Bensin;Manuell;19204;2012;Kombi;Tvåhjulsdriven;180;Svart;1596;2011-10-12;Volvo;V60;Norrbotten
+239900;Företag;Diesel;Automat;5798;2016;Sedan;Tvåhjulsdriven;181;Silver;1969;2015-11-30;Volvo;S80;Norrbotten
+335000;Företag;Diesel;Automat;10481;2021;SUV;Fyrhjulsdriven;198;Svart;1969;2020-11-16;Volvo;XC60;Norrbotten
+28000;Privat;Bensin;Manuell;34000;2005;Kombi;Tvåhjulsdriven;141;Grå;2435;2004-11-17;Volvo;V70;Norrbotten
+239900;Företag;Diesel;Automat;16963;2017;SUV;Fyrhjulsdriven;191;Ljusblå;2400;2017-05-12;Volvo;XC70;Norrbotten
+32000;Privat;Bensin;Manuell;27282;2005;Sedan;Tvåhjulsdriven;141;Grå;2435;2005-06-15;Volvo;S60;Norrbotten
+69900;Privat;Miljöbränsle/Hybrid;Automat;30166;2012;Kombi;Tvåhjulsdriven;180;Svart;1596;2012-01-02;Volvo;V70;Norrbotten
+29900;Företag;Bensin;Manuell;16350;2004;Kombi;Tvåhjulsdriven;123;Ljusgrå;1783;2004-03-04;Volvo;V40;Norrbotten
+145000;Privat;Diesel;Manuell;15879;2012;SUV;Tvåhjulsdriven;164;Svart;1984;2012-04-30;Volvo;XC60;Norrbotten
+109900;Företag;Diesel;Manuell;26500;2014;Kombi;Tvåhjulsdriven;218;Röd;2400;2013-11-30;Volvo;V60;Norrbotten
+126000;Privat;Diesel;Automat;17546;2014;Halvkombi;Tvåhjulsdriven;150;Svart;1984;2013-11-07;Volvo;V40;Norrbotten
+224900;Företag;Diesel;Automat;15200;2018;Kombi;Fyrhjulsdriven;192;Ljusbrun;2400;2018-06-27;Volvo;V60 Cross Country;Norrbotten
+169990;Privat;Diesel;Automat;19600;2013;SUV;Fyrhjulsdriven;200;Svart;2401;2013-01-11;Volvo;XC90;Norrbotten
+390000;Företag;El;Automat;819;2024;SUV;Tvåhjulsdriven;275;Gul;NA;2024-02-05;Volvo;EX30;Norrbotten
+45900;Företag;Bensin;Automat;26150;2006;Kombi;Tvåhjulsdriven;210;Blå;2521;2005-08-02;Volvo;V70;Norrbotten
+32000;Privat;Bensin;Automat;11883;2001;Kombi;Tvåhjulsdriven;170;Grå;2435;2001-06-18;Volvo;V70;Norrbotten
+55000;Privat;Diesel;Manuell;24113;2012;Sedan;Tvåhjulsdriven;116;Vit;1560;2012-04-13;Volvo;S40;Norrbotten
+26000;Privat;Bensin;Manuell;34985;2000;Sedan;Tvåhjulsdriven;141;Grå;2435;2000-05-17;Volvo;S70;Norrbotten
+359900;Företag;Bensin;Automat;9064;2018;SUV;Fyrhjulsdriven;255;Röd;1969;2017-09-25;Volvo;XC60;Norrbotten
+79900;Privat;Miljöbränsle/Hybrid;Manuell;14872;2012;Halvkombi;Tvåhjulsdriven;146;Röd;1999;2011-12-05;Volvo;C30;Norrbotten
+40000;Privat;Bensin;Automat;26626;2007;Kombi;Fyrhjulsdriven;221;Grå;2521;2006-10-05;Volvo;V50;Norrbotten
+275000;Privat;Bensin;Automat;12630;2019;Kombi;Fyrhjulsdriven;310;Svart;1969;2018-08-01;Volvo;V60;Norrbotten
+20000;Privat;Bensin;Automat;37101;2005;Kombi;Tvåhjulsdriven;141;Grå;2435;2004-11-11;Volvo;V70;Norrbotten
+169900;Företag;Diesel;Automat;21900;2013;Kombi;Fyrhjulsdriven;164;Vit;2400;2013-02-19;Volvo;XC70;Norrbotten
+79900;Privat;Miljöbränsle/Hybrid;Manuell;26840;2009;Kombi;Tvåhjulsdriven;146;Blå;1999;2008-12-01;Volvo;V70;Norrbotten
+82000;Privat;Diesel;Manuell;26300;2012;Kombi;Tvåhjulsdriven;164;Brun;1984;2011-11-22;Volvo;V70;Norrbotten
+25000;Privat;Bensin;Automat;16900;2001;Sedan;Tvåhjulsdriven;170;Grå;2435;2000-09-18;Volvo;S80;Norrbotten
+219900;Företag;Diesel;Automat;18786;2017;SUV;Fyrhjulsdriven;191;Grå;2400;2016-07-01;Volvo;XC60;Norrbotten
+349900;Företag;Diesel;Automat;8626;2022;Kombi;Fyrhjulsdriven;198;Svart;1969;2022-02-10;Volvo;V60 Cross Country;Norrbotten
+239900;Företag;Diesel;Automat;11300;2018;Kombi;Fyrhjulsdriven;191;Ljusblå ;2400;2017-12-28;Volvo;V60 Cross Country;Norrbotten
+464000;Företag;El;Automat;169;2024;SUV;Fyrhjulsdriven;434;Svart;NA;2024-02-20;Volvo;EX30;Norrbotten
+134900;Företag;Diesel;Manuell;25027;2016;Kombi;Tvåhjulsdriven;150;Svart;1969;2015-06-30;Volvo;V70;Norrbotten
+212700;Företag;Diesel;Automat;18060;2018;Kombi;Fyrhjulsdriven;150;Svart;1969;2018-02-28;Volvo;V90;Norrbotten
+203000;Privat;Diesel;Automat;18200;2019;Kombi;Tvåhjulsdriven;150;Vit;1969;2018-09-03;Volvo;V90;Norrbotten
+160000;Privat;Diesel;Automat;17525;2017;Kombi;Fyrhjulsdriven;191;Röd;2400;2016-11-30;Volvo;V60 Cross Country;Norrbotten
+319000;Företag;Miljöbränsle/Hybrid;Automat;8400;2021;Kombi;Fyrhjulsdriven;340;svart;1969;2020-12-23;volvo;c40;kalmar
+329000;Företag;Miljöbränsle/Hybrid;Automat;8720;2021;Kombi;Fyrhjulsdriven;253;Silver;1969;2020-10-01;volvo;V60;kalmar
+359000;Företag;Diesel;Automat;6200;2021;Kombi;Fyrhjulsdriven;198;Mörkblå;1969;2020-12-03;volvo;V60;kalmar
+379000;Företag;Diesel;Automat;10200;2022;SUV;Fyrhjulsdriven;198;svart;1969;2021-12-21;volvo;XC60;kalmar
+389900;Företag;Diesel;Automat;12135;2018;SUV;Fyrhjulsdriven;191;Grå;1969;2018-03-09;volvo;XC90;kalmar
+170000;Privat;Diesel;Automat;22914;2016;Kombi;Fyrhjulsdriven;181;Ljusbrun;2400;2015-11-25;volvo;V70;kalmar
+439000;Företag;Miljöbränsle/Hybrid;Automat;2821;2023;Kombi;Fyrhjulsdriven;355;Svart;1969;2022-12-30;volvo;V60;kalmar
+409900;Företag;Miljöbränsle/Hybrid;Automat;4468;2022;SUV;Tvåhjulsdriven;266;Mörkblå;1477;2022-03-03;volvo;XC40;kalmar
+389000;Företag;El;Automat;3103;2023;SUV;Tvåhjulsdriven;234;svart;NA;2022-12-21;volvo;C40;kalmar
+379000;Företag;Bensin;Automat;2788;2024;Kombi;Tvåhjulsdriven;200;grå;1969;2024-04-25;volvo;V60;kalmar
+169000;Företag;Diesel;Automat;23394;2016;SUV;Tvåhjulsdriven;191;vit;1969;2015-09-10;volvo;XC60;kalmar
+439000;Företag;Miljöbränsle/Hybrid;Automat;1926;2023;Kombi;Fyrhjulsdriven;355;svart;1969;2022-12-29;volvo;V60;kalmar
+369000;Företag;El;Automat;4534;2023;SUV;Tvåhjulsdriven;234;blå;NA;2023-03-31;volvo;C40;kalmar
+319000;Företag;Bensin;Automat;8584;2022;SUV;Tvåhjulsdriven;200;vit;1969;2021-06-28;volvo;XC40;kalmar
+162900;Företag;Diesel;Automat;22784;2018;Kombi;Tvåhjulsdriven;150;mörkgrå;1969;2018-03-16;volvo;V90;kalmar
+425000;Företag;Miljöbränsle/Hybrid;Automat;4275;2022;Sedan;Fyrhjulsdriven;398;svart;1969;2022-07-05;volvo;S60;kalmar
+239400;Företag;Bensin;Manuell;5538;2021;SUV;Tvåhjulsdriven;130;vit;1477;2021-06-04;volvo;XC40;kalmar
+238900;Företag;Bensin;Manuell;10435;2022;SUV;Tvåhjulsdriven;164;svart;1477;2021-08-26;volvo;XC40;kalmar
+299900;Företag;Miljöbränsle/Hybrid;Automat;13500;2021;SUV;Fyrhjulsdriven;253;vit;1969;2020-10-12;volvo;XC60;kalmar
+238900;Företag;Diesel;Automat;15467;2020;SUV;Tvåhjulsdriven;150;svart;1969;2019-10-23;volvo;XC40;kalmar
+239400;Företag;Bensin;Manuell;4825;2021;SUV;Tvåhjulsdriven;130;VIT;1477;2021-06-03;volvo;XC40;kalmar
+239400;Företag;Bensin;Manuell;4619;2021;SUV;Tvåhjulsdriven;130;vit;1477;2021-06-04;volvo;XC40;kalmar
+239400;Företag;Bensin;Manuell;4886;2021;SUV;Tvåhjulsdriven;130;vit;1477;2021-06-04;volvo;XC40;kalmar
+239400;Företag;Bensin;Manuell;4659;2021;SUV;Tvåhjulsdriven;130;vit;1477;2021-06-04;volvo;XC40;kalmar
+248800;Företag;Diesel;Automat;8400;2019;Sedan;Tvåhjulsdriven;150;GRÅ;1969;2019-04-26;volvo;V60;kalmar
+214800;Företag;Diesel;Manuell;15385;2020;SUV;Tvåhjulsdriven;150;svart;1969;2019-10-23;volvo;XC40;kalmar
+439000;Företag;El;Automat;1914;2023;SUV;Fyrhjulsdriven;414;RÖD;NA;2023-04-28;volvo;C40;kalmar
+389000;Privat;Miljöbränsle/Hybrid;Automat;8685;2022;SUV;Fyrhjulsdriven;340;RÖD;1969;2021-09-27;volvo;XC60;kalmar
+25500;Privat;Diesel;Manuell;45400;2011;Kombi;Tvåhjulsdriven;109;Silver;1560;2010-12-01;volvo;V70;kalmar
+159000;Privat;Diesel;Manuell;21908;2015;Kombi;Tvåhjulsdriven;181;Silver;1969;2014-12-03;volvo;XC70;kalmar
+38000;Privat;Bensin;Manuell;31192;1994;Kombi;Tvåhjulsdriven;165;RÖD;2316;1994-07-04;volvo;940;kalmar
+85000;Privat;Bensin;Manuell;29569;1989;Sedan;Tvåhjulsdriven;116;Ljusbrun;2316;1989-06-20;volvo;740;kalmar
+109900;Företag;Diesel;Automat;24016;2013;SUV;Tvåhjulsdriven;165;Ljusbrun;2400;2013-03-28;volvo;XC90;kalmar
+189900;Företag;Diesel;Automat;19000;2014;SUV;Fyrhjulsdriven;181;vit;2400;2013-12-17;volvo;XC60;kalmar
+90000;Privat;Bensin;Manuell;11936;2007;CAB;Tvåhjulsdriven;141;svart;2400;2006-07-25;volvo;C70;kalmar
+119800;Företag;Diesel;Automat;16979;2011;Kombi;Tvåhjulsdriven;164;Silver;1984;2011-03-24;volvo;V60;kalmar
+48000;Privat;Diesel;Manuell;27635;2011;Kombi;Tvåhjulsdriven;177;RÖD;1984;2010-07-05;volvo;V50;kalmar
+339000;Företag;Miljöbränsle/Hybrid;Automat;9200;2021;Kombi;Fyrhjulsdriven;340;svart;1969;2020-09-03;volvo;V60;kalmar
+408700;Företag;Miljöbränsle/Hybrid;Automat;9540;2022;SUV;Fyrhjulsdriven;253;Mörkblå;1969;2022-03-18;volvo;XC60;kalmar
+384900;Företag;El;Automat;1408;2024;SUV;Tvåhjulsdriven;275;Grå;NA;2024-07-01;volvo;EX30;kalmar
+399900;Företag;Miljöbränsle/Hybrid;Automat;6249;2021;SUV;Fyrhjulsdriven;344;svart;1969;2021-04-22;volvo;XC60;kalmar
+115000;Företag;Diesel;Manuell;13824;2012;Kombi;Tvåhjulsdriven;116;Grå;1560;2011-10-05;volvo;V70;kalmar
+329000;Företag;Bensin;Automat;6588;2022;SUV;Tvåhjulsdriven;165;svart;1477;2022-07-15;volvo;XC40;kalmar
+439000;Företag;El;Automat;1532;2024;SUV;Tvåhjulsdriven;256;svart;NA;2023-12-28;volvo;C40;kalmar
+179900;Företag;Bensin;Manuell;6125;2018;Halvkombi;Tvåhjulsdriven;153;LJUSBLÅ;1969;2017-05-31;volvo;V40;kalmar
+69900;Företag;Diesel;Manuell;25700;2012;Kombi;Tvåhjulsdriven;116;Mörkblå;1560;2011-09-19;volvo;V60;kalmar
+69900;Företag;Diesel;Manuell;25900;2012;Kombi;Tvåhjulsdriven;116;Ljusbrun;1560;2011-11-18;volvo;V60;kalmar
+349900;Företag;Miljöbränsle/Hybrid;Automat;10800;2020;SUV;Fyrhjulsdriven;392;vit;1960;2020-01-24;volvo;XC60;kalmar
+320000;Privat;Miljöbränsle/Hybrid;Automat;21500;2016;SUV;Fyrhjulsdriven;407;svart;1969;2016-02-02;volvo;XC90;kalmar
+359900;Företag;Bensin;Automat;4278;2021;Sedan;Fyrhjulsdriven;251;MÖRKGRÅ;1969;2021-03-30;volvo;S60;kalmar
